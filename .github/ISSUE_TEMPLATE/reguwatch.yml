@@ -1,0 +1,30 @@
+name: Add/Update a page to watch
+description: Use this form to add or adjust a page to monitor
+title: "Watch: <short name>"
+labels: ["reguwatch"]
+assignees: []
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Short name
+      description: e.g., "MDCG Guidance" or "FDA CDRH Guidance"
+      placeholder: "FDA CDRH Guidance"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL to watch
+      description: Full URL of the page to monitor
+      placeholder: "https://example.org/page"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: Context or filters (ignored by the bot; for humans)
+      placeholder: "Only care about new PDF links / 'Rev.' updates"
+    validations:
+      required: false
