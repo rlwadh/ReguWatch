@@ -1,0 +1,119 @@
+name: ReguWatch (Daily)
+
+on:
+  schedule:
+    # 05:00 UTC ≈ 07:00 Berlin (Sommerzeit); im Winter ≈ 06:00 Berlin
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build watchlist from Issues
+        id: build
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const cfg = JSON.parse(fs.readFileSync('reguwatch.config.json','utf8'));
+            const profile = cfg.profiles[cfg.profile] || {};
+            const maxMonitors = profile.max_monitors ?? 999999;
+
+            const { owner, repo } = context.repo;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', labels: 'reguwatch', per_page: 100
+            });
+
+            // Aus Issues Short name + URL ziehen, Dopplungen per URL vermeiden
+            const seen = new Set();
+            const items = [];
+            for (const is of issues) {
+              const body = is.body || "";
+              const nameMatch = body.match(/\*\*Short name\*\*[\s\S]*?\n\n([\s\S]*?)(?:\n\n|$)/i);
+              const name = (nameMatch ? nameMatch[1].trim() : `Issue #${is.number}`) || `Issue #${is.number}`;
+              const urlMatch = body.match(/https?:\/\/\S+/);
+              const url = urlMatch ? urlMatch[0] : '';
+              if (!url) continue;
+              if (seen.has(url)) continue;
+              seen.add(url);
+              items.push({ name, url, issue: is.number });
+            }
+
+            // Stabil sortieren und auf Limit kürzen
+            items.sort((a,b)=>a.issue-b.issue);
+            const limited = items.slice(0, maxMonitors);
+
+            // Ordner anlegen
+            for (const d of ['snapshots','state','reports']) {
+              if (!fs.existsSync(d)) fs.mkdirSync(d);
+            }
+
+            fs.writeFileSync('sites.json', JSON.stringify(limited, null, 2));
+            fs.writeFileSync('urls.txt', limited.map(i=>i.url).join('\n') + (limited.length?'\n':''));
+            core.setOutput('count', String(limited.length));
+
+      - name: Show watchlist summary
+        run: |
+          echo "Entries: ${{ steps.build.outputs.count }}"
+          cat sites.json || true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests selectolax
+
+      - name: Run daily check
+        id: check
+        run: python .github/scripts/check.py --daily
+
+      - name: Commit snapshots, state & report
+        run: |
+          git config user.name "reguwatch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add snapshots state reports last_diff.txt || true
+          git commit -m "Daily: snapshots/state/report [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Open/Update daily summary issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const date = new Date().toISOString().slice(0,10);
+            const path = `reports/${date}/daily-summary.md`;
+            const body = fs.readFileSync(path, 'utf8');
+
+            // Offene Daily-Issues mit Label 'daily-summary' prüfen
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'daily-summary'
+            });
+
+            for (const is of existing) {
+              if (is.title.includes(date)) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: is.number,
+                  body
+                });
+                return;
+              }
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `ReguWatch Daily Summary ${date}`,
+              body,
+              labels: ['daily-summary']
+            });
