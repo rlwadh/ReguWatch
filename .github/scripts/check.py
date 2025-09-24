@@ -161,4 +161,36 @@ def main(is_daily: bool):
 
 **Änderungen:** {"Text" if text_changed else ""}{" & " if (text_changed and links_changed) else ""}{"Links" if links_changed else ""}
 
-**Vorher/Nachher (kompakter Text-Diff):**
+**Vorher/Nachher (kompakter Text-Diff):** {text_diff} {links_block}
+""")
+
+        # Snapshots immer aktualisieren (für History)
+        html_path.write_text(new_html, encoding="utf-8")
+        text_path.write_text(new_text, encoding="utf-8")
+        save_json(links_path, new_links)
+
+    # State speichern
+    save_json(state_dir / "monthly_counters.json", counters)
+    save_json(state_dir / "last_run.json", last_run)
+
+    # Daily Summary schreiben
+    summary = ["# ReguWatch — Daily Summary", f"Datum (UTC): {today_str()}", ""]
+    if changes_md:
+        summary += ["## Änderungen heute", ""] + changes_md
+    else:
+        summary += ["_Keine Änderungen gefunden._"]
+
+    (ROOT / "last_diff.txt").write_text("\n\n".join(changes_md) if changes_md else "No changes.", encoding="utf-8")
+    (summary_dir / "daily-summary.md").write_text("\n".join(summary), encoding="utf-8")
+    return any_changes
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--daily", action="store_true", help="daily run")
+    args = parser.parse_args()
+    changed = main(is_daily=args.daily)
+    gho = os.environ.get("GITHUB_OUTPUT","")
+    if gho:
+        with open(gho, "a") as f:
+            f.write(("changed=1\n" if changed else "changed=0\n"))
+            f.write("state_written=1\n")
