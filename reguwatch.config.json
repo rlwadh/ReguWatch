@@ -1,0 +1,16 @@
+{
+  "profile": "community",
+  "profiles": {
+    "community": {
+      "max_monitors": 150,
+      "min_interval_minutes": 10,
+      "checks_per_month_cap": 100000,
+      "webhook_alert_cap_per_month": 2000
+    }
+  },
+  "notifications": {
+    "use_github_issues": true,
+    "webhook_url": ""
+  },
+  "macros": []
+}
