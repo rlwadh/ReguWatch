@@ -136,6 +136,87 @@ state/
 
 ---
 
+## 📥 How to Fork & Use ReguWatch (for your own org)
+
+1. **Fork the repo**
+   - Click **Fork** (top-right) → choose your account/org
+   - Keep it **public** if you want to share; **private** if it's internal
+
+2. **Enable GitHub Actions** in your fork
+   - Go to `Settings → Actions → General`
+   - **Allow all actions**
+   - **Workflow permissions → Read and write permissions**
+
+3. **(Optional) Adjust the schedule**
+   - Open `.github/workflows/reguwatch.yml`
+   - Edit the `cron` (default `0 5 * * *` = 05:00 UTC ≈ 07:00 Berlin in summer)
+   - Commit changes
+
+4. **Add your monitored pages via Issues (UI)**
+   - Go to `Issues → New issue → "Add/Update a page to watch"`
+   - Fill in **Short name** + **URL** (one page per issue)
+   - Pause by removing the **reguwatch** label; remove by **closing** the issue
+
+5. **Run the first check**
+   - Go to `Actions → ReguWatch (Daily) → Run workflow`
+   - After it finishes you'll see:
+     - `reports/YYYY-MM-DD/daily-summary.md` (Markdown report)
+     - An Issue **"ReguWatch Daily Summary YYYY-MM-DD"**
+
+6. **Turn on email notifications** (so you get the daily mail)
+   - Profile → `Settings → Notifications` → **Send notifications to email**
+   - On your fork: click **Watch → All activity**
+
+7. **Keep your fork updated**
+   - On GitHub: **Sync fork** (button near the top of your repo) — or
+   - Locally: 
+```bash
+     git remote add upstream https://github.com/rlwadh/ReguWatch.git
+     git fetch upstream
+     git merge upstream/main
+     git push
+
+---
+
+---
+
+## 🤝 Contributing / Improving ReguWatch
+
+We welcome improvements that keep the tool **simple, reliable, and audit-friendly**.
+
+### Good first contributions
+
+- New recommended sources (FDA/MDCG/EMA/ISO/IEC/etc.) for the README
+- Small UX fixes to the Daily Summary (phrasing, links)
+- Noise filters that ignore non-semantic changes (JS hashes, counters, survey overlays)
+- Documentation tweaks (README clarity, step screenshots)
+
+### How to propose changes
+
+1. **Open an Issue** describing the problem/idea and why it helps (compliance value, noise reduction, etc.)
+2. **Fork** and create a feature branch: `feat/<brief-name>`
+3. Keep PRs **small & focused** (≤ ~200 lines if possible)
+4. **Include tests-by-usage**: show a before/after snippet of a real page or a sample output from your run
+5. Follow the existing style (plain Python, minimal deps, clear comments)
+6. **PR template checklist:**
+   - Keeps daily workflow simple and deterministic
+   - Doesn't leak secrets / PII
+   - Keeps emails compact (no giant diffs)
+   - Backwards compatible (no breaking paths)
+   - Documented in README if user-visible
+
+### Non-goals (usually out of scope)
+
+- Heavy crawling/scraping beyond a single page per monitor
+- Executing JavaScript or headless browsers (keeps Actions light/fast)
+- Proprietary integrations that require paid keys (we stay pure OSS)
+
+### Code of Conduct
+
+Be kind, assume good intent, and prioritize clarity for regulated environments.
+
+---
+
 ## 🤝 Contributing
 
 PRs and issues are welcome!
