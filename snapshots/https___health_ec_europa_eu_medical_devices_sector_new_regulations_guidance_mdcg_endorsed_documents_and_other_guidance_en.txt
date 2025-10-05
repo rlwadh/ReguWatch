@@ -1,0 +1,954 @@
+
+Skip to main content
+
+{"utility":"globan","theme":"light","logo":true,"link":true,"mode":false}
+
+
+
+
+
+
+
+
+
+
+
+
+
+en
+Select your language
+Close
+bg
+български
+es
+español
+cs
+čeština
+da
+dansk
+de
+Deutsch
+et
+eesti
+el
+ελληνικά
+en
+English
+fr
+français
+ga
+Gaeilge
+hr
+hrvatski
+it
+italiano
+lv
+latviešu
+lt
+lietuvių
+hu
+magyar
+mt
+Malti
+nl
+Nederlands
+pl
+polski
+pt
+português
+ro
+română
+sk
+slovenčina
+sl
+slovenščina
+fi
+suomi
+sv
+svenska
+
+
+
+{"service":"search","version":"2.0","form":".ecl-search-form","filters":{"scope":{"sites":[{"selected":true,"name":"Public Health","id":["comm-ewcms-health"]}]}}}
+
+Search
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public Health
+
+
+
+
+
+Home
+…
+Medical Devices - Sector
+New Regulations
+Guidance
+Guidance - MDCG endorsed documents and other guidance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Page contents
+Page contents
+
+
+
+
+
+
+This page provides a range of documents to assist stakeholders in applying:
+Regulation (EU) 2017/745 on medical devices (MDR)
+and
+Regulation (EU) 2017/746 (IVDR) on in vitro diagnostic medical devices
+.
+The majority of documents on this page are endorsed by the Medical Device Coordination Group (MDCG) in accordance with Article 105 of the MDR and Article 99 of the IVDR.
+They are drafted in collaboration with interested parties represented in the various groups and denominated by the following format: “MDCG Year-Number-revision”.
+The documents on this page are not legally binding. They present a common understanding of how the MDR and IVDR should be applied in practice aiming at an effective and harmonised implementation of the legislation. Guidance documents are regularly reviewed to see whether they need to be revised or archived.
+Obsolete guidance is available here
+.
+Ongoing development/revision of guidance.
+Current guidance
+Annex XVI products
+Reference
+Title
+Publication
+MDCG 2023-6
+Guidance on demonstration of equivalence for Annex XVI products - A guide for manufacturers and notified bodies
+December 2023
+MDCG 2023-5
+Guidance on qualification and classification of Annex XVI products - A guide for manufacturers and notified bodies
+December 2023
+Q&A
+Q&A on transitional provisions for products without an intended medical purpose covered by annex XVI of the MDR
+September 2023
+Borderline and Classification
+Reference
+Title
+Publication
+Manual on Borderline
+Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v4
+Background note
+on the use of the Manual on borderline and classification for medical devices under the Directives.
+September 2025
+MDCG 2024-13
+Regulatory status of ethylene oxide (EtO) intended for the sterilisation of medical devices
+October 2024
+MDCG 2022-5 rev.1
+Guidance on borderline between medical devices and medicinal products under Regulation (EU) 2017/745 on medical devices
+October 2024
+MDCG 2021-24
+Guidance on
+classification
+of medical devices
+October 2021
+Helsinki Procedure
+Helsinki Procedure
+for borderline and classification under MDR & IVDR
+September 2021
+Class I Devices
+Reference
+Title
+Publication
+MDCG 2019-15 rev.1
+Guidance notes for
+manufacturers of class I
+medical devices
+December 2019
+Clinical investigation and evaluation, performance studies and evaluation
+Reference
+Title
+Publication
+MDCG 2025-5
+Questions & Answers regarding performance studies of in vitro diagnostic medical devices under regulation (EU) 2017/746
+June 2025
+MDCG 2024-15
+Guidance on the publication of the clinical investigation reports and their summaries in the absence of EUDAMED
+November 2024
+MDCG 2024-10
+Clinical evaluation of orphan medical devices
+June 2024
+MDCG 2024-5
+MDCG 2024-5 Appendix A
+Guidance on the Investigator’s Brochure content
+Appendix A of the MDCG 2024-5
+April2024
+April2024
+MDCG 2024-3
+MDCG 2024-3 Appendix A
+Guidance on content of the Clinical Investigation Plan for clinical investigations of medical devices
+Clinical Investigation Plan Synopsis Template
+March 2024
+March 2024
+MDCG 2023-7
+Guidance on exemptions from the requirement to perform clinical investigations pursuant to Article 61(4)-(6) MDR and on sufficient levels of access’ to data needed to justify claims of equivalence
+December 2023
+2023/C 163/06
+Commission Guidance on the content and structure of the summary of the clinical investigation report
+May 2023
+MDCG 2021-28
+Substantial modification
+of clinical investigation under Medical Device Regulation
+December 2021
+MDCG 2021-20
+Instructions for
+generating CIV-ID
+for MDR Clinical Investigations
+July 2021
+MDCG 2021-8
+Clinical investigation
+application/notification documents
+May 2021
+MDCG 2021-6 - rev.1
+Regulation (EU) 2017/745 –
+Questions & Answers
+regarding
+clinical investigation
+December 2023
+MDCG 2020-13
+-
+Word version
+Clinical evaluation assessment report template
+July 2020
+MDCG 2020-10/1 rev.1
+MDCG 2020-10/2 rev.1
+Guidance on
+safety reporting
+in clinical investigations
+Appendix: Clinical investigation summary safety report form
+October 2022
+October 2022
+MDCG 2020-8
+Guidance on
+PMCF evaluation report
+template
+April 2020
+MDCG 2020-7
+Guidance on
+PMCF plan
+template
+April 2020
+MDCG 2020-6
+Guidance on sufficient
+clinical evidence for legacy devices
+Background note
+
+on the relationship between MDCG 2020-6 and MEDDEV 2.7/1 rev.4 on clinical evaluation
+April 2020
+MDCG 2020-5
+Guidance on
+clinical evaluation – Equivalence
+April 2020
+MDCG 2019-9 - rev.1
+Summary of safety and clinical performance
+March 2022
+COVID-19
+Reference
+Title
+Publication
+MDCG 2021-21 rev.1
+Guidance on
+performance evaluation of SARS-CoV-2
+in vitro diagnostic medical devices
+February 2022
+MDCG 2022-1
+Notice to 3rd country manufacturers
+of SARS-CoV-2 in vitro diagnostic medical devices
+January 2022
+MDCG 2021-7
+Notice to manufacturers and authorised representatives on the
+impact of genetic variants on SARS-COV-2
+in vitro diagnostic medical devices
+May 2021
+MDCG 2021-2
+Guidance on state of the art of
+COVID-19 rapid antibody tests
+March 2021
+COVID-19 TESTS: Q&A on in vitro diagnostic medical device conformity assessment and performance in the context of COVID-19
+(available in all EU languages and
+Arabic
+,
+Chinese
+,
+Japanese
+,
+Russian
+)
+February 2021
+Conformity assessment procedures for protective equipment
+July 2020
+How to verify that medical devices and personal protective equipment can be lawfully placed on the EU market and thus purchased and used – also in the COVID-19 context
+May 2020
+Guidance on regulatory requirements for medical face masks
+June 2020
+Guidance on medical devices, active implantable medical devices and in vitro diagnostic medical devices in the COVID-19 context
+April 2020
+Conformity assessment procedures for 3D printing and 3D printed products to be used in a medical context for COVID-19
+April 2020
+MDCG 2020-9
+Regulatory requirements for
+ventilators and related accessories
+April 2020
+Custom-Made Devices
+Reference
+Title
+Publication
+MDCG 2021-3
+Questions and Answers
+on Custom-Made Devices
+March 2021
+EUDAMED
+EUDAMED Information Centre
+Reference
+Title
+Publication
+Gradual roll out of EUDAMED
+Q&A on practical aspects related to the implementation of the gradual roll-out of Eudamed pursuant to the MDR and IVDR, as amended by Regulation (EU) 2024/1860 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices1
+November 2024
+MDCG 2022-12
+Guidance on harmonised administrative practices and alternative technical solutions until Eudamed is fully functional (for Regulation (EU) 2017/746 on in vitro diagnostic medical devices)
+July 2022
+MDCG 2021-13 rev.1
+Questions and answers
+on obligations and related rules for the
+registration
+in EUDAMED
+of actors other than
+manufacturers, authorised representatives and importers subject to the obligations of
+Article 31 MDR and Article 28 IVDR
+July 2021
+MDCG 2021-1 rev.1
+Guidance on harmonised administrative practices and
+alternative
+technical
+solutions until EUDAMED is fully functional
+May 2021
+European Medical Device Nomenclature (EMDN)
+Reference
+Title
+Publication
+MDCG 2025-3
+EMDN Version History
+January 2025
+MDCG 2025-2
+Summary of EMDN 2024 Submissions and outcome of annual revision
+January 2025
+MDCG 2025-1
+EMDN Ad hoc procedure
+January 2025
+MDCG 2024-2 rev.1
+Procedures for the
+updates
+of the EMDN
+January 2025
+MDCG 2021-12 rev.1
+FAQ
+on the European Medical Device Nomenclature (
+EMDN
+)
+January 2025
+The EMDN – The nomenclature of use in EUDAMED
+January 2020
+The CND nomenclature – Background and general principles
+January 2020
+MDCG 2018-2
+Future EU medical device nomenclature - Description of requirements
+March 2018
+Implant cards
+Reference
+Title
+Publication
+MDCG 2021-11
+Guidance on
+Implant Card – Device types
+May 2021
+MDCG 2019-8 v2
+Guidance document
+implant card
+on the application of Article 18 Regulation (EU) 2017/745 on medical devices
+March 2020
+In-house devices
+Reference
+Title
+Publication
+MDCG 2023-1
+Guidance on the health institution exemption under Article 5(5) of Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+January 2023
+Authorised Representatives, Importers, Distributors
+Reference
+Title
+Publication
+MDCG 2021-27 - rev.1
+Questions and Answers on Articles 13 & 14 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+December 2023
+MDCG 2022-16
+Guidance on Authorised Representatives Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+October 2022
+MDCG 2021-26
+Q&A on
+repackaging & relabelling
+activities under Article 16 of Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+October 2021
+Article 10a – interruption or discontinuation of supply
+Reference
+Title
+Publication
+Q&A rev.1
+Q&A Obligation to inform in case of interruption or discontinuation of supply
+December 2024
+MDCG 2024-16
+Manufacturer Information Form on Interruption or Discontinuation of Supply of certain medical devices and certain in vitro diagnostic medical devices
+December 2024
+MDCG 2024-16 Annex
+Device Identification table
+December 2024
+In Vitro Diagnostic medical devices (IVD)
+Reference
+Title
+Publication
+MDCG 2024-11
+Guidance on qualification of in vitro diagnostic medical devices
+October 2024
+MDCG 2024-4
+MDCG 2024-4 Appendix
+Safety reporting in performance studies of in vitro diagnostic medical devices under Regulation (EU) 2017/746
+Appendix – Performance Study Summary Safety Reporting Form
+April 2024
+MDCG 2022-9 rev.1
+Summary of safety and performance template
+April 2024
+MDCG 2020-16 rev.4
+Guidance on
+Classification Rules
+for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746
+March 2025
+MDCG 2022-20
+Substantial modification of performance study under Regulation (EU) 2017/746
+December  2022
+MDCG 2022-19
+Performance study application/notification documents under Regulation (EU) 2017/746
+December  2022
+MDCG 2022-15
+Guidance on appropriate surveillance regarding the transitional provisions under Article 110 of the IVDR with regard to devices covered by certificates according to the IVDD
+September  2022
+MDCG 2021-22 rev.1
+Clarification on “first certification for that type of device” and corresponding procedures to be followed by notified bodies, in context of the
+consultation of the expert panel
+referred to in Article 48(6) of Regulation (EU) 2017/746
+September  2022
+MDCG 2022-10
+Q&A on the interface between Regulation (EU) 536/2014 on clinical trials for medicinal products for human use (CTR) and Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)
+May 2022
+MDCG 2022-8
+Regulation (EU) 2017/746 - application of IVDR requirements to ‘legacy devices’ and to devices placed on the market prior to 26 May 2022 in accordance with Directive 98/79/EC
+May 2022
+MDCG 2022-6
+Guidance on significant changes regarding the transitional provision under Article 110(3) of the IVDR
+May 2022
+MDCG 2022-3 rev.1
+Verification of manufactured class D IVDs by notified bodies
+December 2024
+MDCG 2022-2
+Guidance on general principles of
+clinical evidence
+for In Vitro Diagnostic medical devices (IVDs)
+January 2022
+MDCG 2021-4 rev.1
+Application of
+transitional provisions
+for certification of
+class D
+in vitro diagnostic medical devices according to Regulation (EU) 2017/746
+September 2024
+New technologies
+Reference
+Title
+Publication
+MDCG 2025-6
+FAQ on Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)
+June 2025
+MDCG 2025-4
+Guidance on the safe making available of medical device software (MDSW) apps on online platforms
+June 2025
+MDCG 2023-4
+Medical Device Software (MDSW) – Hardware combinations Guidance on MDSW intended to work in combination with hardware or hardware components
+October 2023
+Infographic
+Is your
+software
+a Medical Device?
+March 2021
+MDCG 2020-1
+Guidance on
+clinical evaluation
+(MDR) /
+Performance evaluation
+(IVDR) of medical device software
+March 2020
+MDCG 2019-16 rev.1
+Guidance on
+cybersecurity
+for medical devices
+July 2020
+MDCG 2019-11 rev.1
+Qualification and classification of software
+- Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+June 2025
+Notified bodies
+Reference
+Title
+Publication
+MDCG 2024-6
+
+Preliminary re-assessment review (PRAR) form template (MDR)
+May 2024
+MDCG 2024-7 rev.1
+MDCG 2021-15/MDCG 2024-7 Annex
+Preliminary assessment review (PAR) form template (MDR)
+Annex to Application Form & PAR Template MDR (List of documents)
+January 2025
+MDCG 2024-8 rev.1
+
+MDCG 2021-16/MDCG 2024-8 Annex
+Preliminary assessment review (PAR) form template (IVDR)
+Annex to Application Form & PAR Template IVDR (List of documents)
+January 2025
+MDCG 2024-9
+Preliminary re-assessment review (PRAR) form template (IVDR)
+May 2024
+MDCG 2020-3 rev.1
+Guidance on significant changes regarding the transitional provision under Article 120 of the MDR with regard to devices covered by certificates according to MDD or AIMDD
+Note to the reader: Due to technical issues, please disregard the document displayed from 7 September 2023 until 8 September 2023.
+September 2023
+MDCG 2023-2
+MDCG 2023-2 MDR form
+MDCG 2023-2 IVDR form
+List of Standard Fees
+January 2023
+MDCG 2022-4 rev.2
+Guidance on appropriate surveillance regarding the transitional provisions under Article 120 of the MDR with regard to devices covered by certificates according to the MDD or the AIMDD
+May 2024
+MDCG 2022-17
+MDCG position paper on "hybrid audits"
+December 2022
+MDCG 2019-6 rev.5
+Questions and answers:
+Requirements relating to notified bodies
+February 2025
+MDCG 2022-13 rev.1
+Designation, re-assessment and notification of conformity assessment bodies and notified bodies
+June 2024
+MDCG 2024-12
+MDCG 2024-12 Annex I Form
+MDCG 2024-12 Annex II Form
+Corrective and preventive action (CAPA) plan assessment: guidance and templates for conformity assessment bodies, notified bodies, designating authorities, and joint assessment teams
+Annex I: Template CAPA plan and assessment thereon
+Annex II: Template JAT review of the CAPA and the DA's opinion
+October 2024
+MDCG 2021-23
+Guidance for notified bodies, distributors and importers on
+certification activities
+in accordance with Article 16(4) of Regulation (EU) 2017/745 and Regulation (EU) 2017/746
+August 2021
+MDCG 2021-18
+Applied-for scope of
+designation and notification of a conformity assessment body
+– Regulation (EU) 2017/746 (IVDR)
+July 2021
+MDCG 2021-17
+Applied-for scope of
+designation and notification of a conformity assessment body
+– Regulation (EU) 2017/745 (MDR)
+July 2021
+MDCG 2021-16 rev.1
+MDCG 2021-16/MDCG 2024-8 Annex
+Application form
+to be submitted by a conformity assessment body when applying for
+designation as notified body
+under the in vitro diagnostic devices regulation (
+IVDR
+)
+Annex to Application Form & PAR Template IVDR (List of documents)
+January 2025
+MDCG 2021-15 rev.1
+MDCG 2021-15/MDCG 2024-7 Annex
+Application form
+to be submitted by a conformity assessment body when applying for
+designation as notified body
+under the medical devices regulation (
+MDR
+)
+Annex to Application Form & PAR Template MDR (List of documents)
+January 2025
+MDCG 2021-14
+Explanatory note on
+IVDR codes
+July 2021
+MDCG 2020-17
+Questions and Answers related to MDCG 2020-4:
+“Guidance on temporary extraordinary measures related to medical device notified body
+audits during COVID-19
+quarantine orders and travel restrictions”
+December 2020
+MDCG 2020-14
+Guidance for notified bodies on the use of MDSAP audit reports in the context of surveillance audits carried out under the Medical Devices Regulation (MDR)/In Vitro Diagnostic medical devices Regulation (IVDR)
+August 2020
+MDCG 2020-12
+Guidance on transitional provisions for consultations of authorities on devices incorporating a substance which may be considered a medicinal product and which has action ancillary to that of the device, as well as on devices manufactured using TSE susceptible animal tissues
+June 2020
+MDCG 2020-11
+Guidance on the renewal of designation and monitoring of notified bodies under Directives 90/385/EEC and 93/42/EEC to be performed in accordance with Commission Implementing Regulation (EU) 2020/666 amending Commission Implementing Regulation (EU) 920/2013
+May 2020
+MDCG 2020-4
+Guidance on temporary extraordinary measures related to medical device notified body audits during COVID-19 quarantine orders and travel restrictions
+April 2020
+MDCG 2019-14
+Explanatory note on MDR codes
+December 2019
+MDCG 2019-13 rev.1
+Guidance on sampling of devices for the assessment of the technical documentation
+December 2024
+MDCG 2019-12
+Designating authority's final assessment form: Key information (EN)
+October 2019
+MDCG 2018-8
+Guidance on content of the certificates, voluntary certificate transfers
+November 2018
+NBOG BPG 2017-2
+Best practice guidance on the information required for personnel involved in conformity assessment
+February 2018
+NBOG F 2017-8
+Review of qualification for the authorisation of personnel (IVDR)
+February 2018
+NBOG F 2017-7
+Review of qualification for the authorisation of personnel (MDR)
+February 2018
+Person responsible for regulatory compliance (PRRC)
+Reference
+Title
+Publication
+MDCG 2019-7 - rev.1
+Guidance on article 15 of the medical device regulation (MDR) and in vitro diagnostic device regulation (IVDR) on a ‘
+person responsible for regulatory compliance
+’ (PRRC)
+December 2023
+Post-Market Surveillance and Vigilance (PMSV)
+PMSV reporting forms
+(Update 18 July 2025)
+Reference
+Title
+Publication
+MDCG 2024-1
+Device Specific Vigilance Guidance (DSVG) Template
+January 2024
+MDCG 2024-1-1
+DSVG 01 on Cardiac ablation
+January 2024
+MDCG 2024-1-2
+DSVG 02 on Coronary stents
+January 2024
+MDCG 2024-1-3
+DSVG 03 on Cardiac implantable electronic devices (CIEDs)
+January 2024
+MDCG 2024-1-4
+DSVG 04 on Breast implants
+January 2024
+MDCG 2024-1-5
+DSVG 05 on Urogynaecological Surgical Mesh Implants used for Pelvic Organ Prolapse repair and Stress Urinary Incontinence
+June 2024
+MDCG 2023-3 rev.2
+
+Questions and Answers on vigilance terms and concepts as outlined in the Regulation (EU) 2017/745 on medical devices and Regulation (EU) 2017/746
+January 2025
+MDCG 2022-21
+Guidance on Periodic Safety Update Report (PSUR) according to Regulation (EU) 2017/745
+December 2022
+Standards
+Reference
+Title
+Publication
+MDCG 2021-5 rev.1
+Guidance on
+standardisation for medical devices
+July 2024
+Unique Device Identifier (UDI)
+UDI Helpdesk
+Reference
+Title
+Publication
+MDCG 2025-7
+MDCG Position Paper: Timelines of the implementation of ‘Master UDI-DI’ to contact lenses and spectacle frames, spectacle lenses and ready-to-wear reading spectacles
+July 2025
+MDCG 2024-14 - rev.1
+Guidance on the implementation of the Master UDI-DI solution for contact lenses
+August 2025
+MDCG 2022-7
+Q&A on the Unique Device Identification system under Regulation (EU) 2017/745 and Regulation (EU)
+May 2022
+MDCG 2021-19
+Guidance note integration of the
+UDI
+within an organisation’s
+quality management system
+July 2021
+MDCG 2021-10
+The status of Appendixes
+E-I of IMDRF N48
+under the EU regulatory framework for medical devices
+June 2021
+MDCG 2021-09
+MDCG Position Paper on the Implementation of
+UDI requirements for contact lenses, spectacle frames, spectacle lenses & ready readers
+May 2021
+MDCG 2018-1 rev.4
+Guidance on
+basic UDI-DI and changes to UDI-DI
+April 2021
+MDCG 2020-18
+MDCG Position Paper on
+UDI assignment for Spectacle lenses & Ready readers
+December 2020
+MDCG 2019-2
+Guidance on application of
+UDI rules to device-part of products
+referred to in article 1(8), 1(9) and 1(10) of Regulation 745/2017
+February 2019
+MDCG 2019-1
+MDCG guiding principles for
+issuing entities rules on basic UDI-DI
+January 2019
+MDCG 2018-7
+Provisional considerations regarding
+language issues
+associated with the
+UDI database
+October 2018
+MDCG 2018-6
+Clarifications of
+UDI related responsibilities
+in relation to
+article 16
+October 2018
+MDCG 2018-5
+UDI assignment
+to medical device
+software
+October 2018
+MDCG 2018-4
+Definitions/descriptions and formats of the
+UDI core elements for systems or procedure packs
+October 2018
+MDCG 2018-3 rev.1
+Guidance on
+UDI for systems and procedure packs
+June 2020
+Other topics
+Reference
+Title
+Publication
+Q&A
+Q&A on practical aspects related to the implementation of the extended transitional period provided for in the IVDR, as amended by Regulation (EU) 2024/1860
+July 2024
+MDCG 2022-11 - rev.1
+MDCG Position Paper: Notice to manufacturers to ensure timely compliance with MDR and IVDR requirements
+November 2023
+Q&A rev.2
+Q&A on practical aspects related to the implementation of Regulation (EU) 2023/607 - Extension of the MDR transitional period and removal of the “sell off” periods
+July 2024
+MDCG 2022-18 ADD.1
+MDCG Position Paper on the application of Article 97 MDR to legacy devices for which the MDD or AIMDD certificate expires before the issuance of a MDR certificate - Addendum 1
+June 2023
+MDCG 2022-18
+MDCG Position Paper on the application of Article 97 MDR to legacy devices for which the MDD or AIMDD certificate expires before the issuance of a MDR certificate
+December 2022
+MDCG 2022-14
+Transition to the MDR and IVDR - Notified body capacity and availability of medical devices and IVDs
+August 2022
+MDCG 2021-25 rev.1
+Application of MDR requirements to "
+legacy devices
+" and to devices placed on the market prior to 26 May 2021 in accordance with Directives 90/385/EEC or 93/42/EEC
+October 2024
+MDCG 2019-3 rev.1
+Clinical evaluation consultation procedure exemptions
+Interpretation of article 54(2)b
+April 2020
+Other guidance documents
+Reference
+Title
+Publication
+MDR/IVDR Language requirements
+Overview of language requirements for manufacturers of medical devices for the information and instructions that accompany a device in a specific country
+January 2024
+European Medicines Agency (EMA) Guidance
+Questions & Answers for applicants, marketing authorisation holders of medicinal products and notified bodies with respect to the implementation of the Medical Devices and In Vitro Diagnostic Medical Devices Regulations ((EU) 2017/745 and (EU) 2017/746)
+June 2021
+SCHEER guidelines
+Update on the guidelines on the benefit-risk assessment of the presence of phthalates in certain medical devices
+covering phthalates which are carcinogenic, mutagenic, toxic to reproduction (CMR) or have endocrine-disrupting (ED) properties
+June 2024
+CAMD FAQ
+CAMD MDR/IVDR Transition Subgroup: FAQ – MDR Transitional provisions
+January 2018
+
+
+
+
+
+
+
+
+
+
+Latest updates
+
+News announcement
+12 September 2025
+Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 - September 2025
+1 min read
+News announcement
+26 August 2025
+MDCG 2024-14 - rev.1 - Guidance on the implementation of the Master UDI-DI solution for contact lenses (August 2025)
+1 min read
+News announcement
+29 July 2025
+Adoption of Commission Delegated Regulation (EU) 2025/788 amending Delegated Regulation (EU) 2023/2197 as regards the date of application
+1 min read
+News announcement
+10 July 2025
+MDCG 2025-7 - Position Paper: Timelines of implementation of ‘Master UDI-DI’ to contact lenses and spectacle frames, spectacle lenses and ready-to-wear reading spectacles
+1 min read
+See all
+
+
+
+
+
+
+
+
+Documents
+
+Events
+Publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obsolete guidance
+The guidance documents are regularly reviewed to see whether they need to be revised or archived. This page lists the obsolete guidance
+PMSV reporting forms
+PMSV reporting forms
+
+
+
+
+
+Share this page
+
+{"service":"share","version":"2.0","networks":["twitter","facebook","linkedin","email","more"],"display":"icons","stats":true,"selection":true}
+
+
+
+
+
+
+
+
+Public Health
+This site is managed by:
+Directorate-General for Health and Food Safety
+Latest updates
+EU One Health
+Health & Food Safety Newsletters
+EU public health – databases and other online services
+About us
+Directorate-General for Health and Food Safety
+Related links
+EU Health Policy Platform
+Food Safety
+Follow the European Commission
+Facebook
+Instagram
+X
+Linkedin
+Other
+Contact us
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility
+
+
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1066"}]}
+
+{"utility":"cck"}
+
+{"service":"laco","include":"#block-ewcms-theme-main-page-content .ecl","coverage":{"document":"any","page":"any"},"icon":"all","exclude":".nolaco, .ecl-file, .ecl-content-item__title","ignore":["filename=([A-Za-z0-9\\-\\_]+)_([A-Za-z]{2}).pdf"]}
+
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1095","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","urlSuffixes":["bg","es","cs","da","de","et","el","en","fr","ga","hr","it","lv","lt","hu","mt","nl","pl","pt","ro","sk","sl","fi","sv","ar","ca","is","no","tr","uk","ru","zh","lb","sw","he","ja","kl"]},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ewcms_multilingual":{"monolingual":false,"current_node_available_translations":["en"],"machine_translation_script":{"json":"{\u0022service\u0022:\u0022etrans\u0022,\u0022renderAs\u0022:false,\u0022user\u0022:\u0022Public Health\u0022,\u0022exclude\u0022:\u0022.ecl-site-header__language-item,.ecl-site-header__language-selector,.toolbar\u0022,\u0022languages\u0022:{\u0022source\u0022:\u0022en\u0022,\u0022available\u0022:[\u0022en\u0022]},\u0022config\u0022:{\u0022live\u0022:false,\u0022mode\u0022:\u0022lc2023\u0022,\u0022targets\u0022:{\u0022receiver\u0022:\u0022#webtools-etrans\u0022}}}","current_node_language":"en"},"machine_translation":{"available_languages":["bg","cs","da","de","el","en","es","et","fi","fr","ga","hr","hu","it","lt","lv","mt","nl","pl","pt-pt","ro","sk","sl","sv"],"current_node_language_code":"en","native_languages":{"bg":"\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438","es":"espa\u00f1ol","cs":"\u010de\u0161tina","da":"dansk","de":"Deutsch","et":"eesti","el":"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac","en":"English","fr":"fran\u00e7ais","ga":"Gaeilge","hr":"hrvatski","it":"italiano","lv":"latvie\u0161u","lt":"lietuvi\u0173","hu":"magyar","mt":"Malti","nl":"Nederlands","pl":"polski","pt-pt":"portugu\u00eas","ro":"rom\u00e2n\u0103","sk":"sloven\u010dina","sl":"sloven\u0161\u010dina","fi":"suomi","sv":"svenska","ar":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629","ca":"catal\u00e0","is":"\u00edslenska","he":"\u05e2\u05d1\u05e8\u05d9\u05ea","kl":"kalaallisut","ja":"\u65e5\u672c\u8a9e","lb":"L\u00ebtzebuergesch","nb":"norsk","ru":"\u0440\u0443\u0441\u0441\u043a\u0438\u0439","sw":"Kiswahili","tr":"t\u00fcrk\u00e7e","uk":"y\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430","zh-hans":"\u4e2d\u6587"},"suffix_map":{"bg":"bg","es":"es","cs":"cs","da":"da","de":"de","et":"et","el":"el","en":"en","fr":"fr","ga":"ga","hr":"hr","it":"it","lv":"lv","lt":"lt","hu":"hu","mt":"mt","nl":"nl","pl":"pl","pt":"pt-pt","ro":"ro","sk":"sk","sl":"sl","fi":"fi","sv":"sv"},"etrans_enabled":true,"etrans_languages":["ar","bg","cs","da","de","el","en","es","et","fi","fr","ga","hr","hu","is","it","ja","lt","lv","mt","nb","nl","pl","pt-pt","ro","ru","sk","sl","sv","tr","uk","zh-hans"],"non_eu_languages":["ar","ca","he","is","ja","kl","lb","nb","ru","sw","tr","uk","zh-hans"],"translated_strings":{"translation_not_available":{"bg":"\u0422\u0430\u0437\u0438 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0435 \u0435 \u0434\u043e\u0441\u0442\u044a\u043f\u043d\u0430 \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a.","es":"Esta p\u00e1gina no est\u00e1 disponible en espa\u00f1ol","cs":"Tato str\u00e1nka nen\u00ed v \u010de\u0161tin\u011b k dispozici","da":"Denne side er ikke tilg\u00e6ngelig p\u00e5 dansk","de":"Diese Seite ist auf Deutsch nicht verf\u00fcgbar.","et":"See lehek\u00fclg ei ole eesti keeles k\u00e4ttesaadav","el":"\u0397 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03b1\u03c5\u03c4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7 \u03c3\u03c4\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac","en":"This page is not available in English.","fr":"Cette page n\u2019est pas disponible en fran\u00e7ais.","ga":"N\u00edl an leathanach seo ar f\u00e1il i nGaeilge","hr":"Ova stranica nije dostupna na hrvatskom jeziku","it":"Questa pagina non \u00e8 disponibile in italiano","lv":"\u0160\u012b lapa nav pieejama latvie\u0161u valod\u0101.","lt":"\u0160io puslapio lietuvi\u0173 kalba n\u0117ra","hu":"Ez az oldal nem \u00e9rhet\u0151 el magyarul","mt":"Din il-pa\u0121na mhix disponibbli bil-Malti","nl":"Deze pagina is niet beschikbaar in het Nederlands.","pl":"Strona nie jest dost\u0119pna w j\u0119zyku polskim.","pt-pt":"Esta p\u00e1gina n\u00e3o est\u00e1 dispon\u00edvel em portugu\u00eas","ro":"Aceast\u0103 pagin\u0103 nu este disponibil\u0103 \u00een limba rom\u00e2n\u0103","sk":"T\u00e1to str\u00e1nka nie je dostupn\u00e1 v sloven\u010dine","sl":"Ta stran ni na voljo v sloven\u0161\u010dini.","fi":"T\u00e4t\u00e4 sivua ei ole saatavilla suomen kielell\u00e4.","sv":"Sidan finns inte p\u00e5 svenska","ar":"\u0647\u0630\u0647 \u0627\u0644\u0635\u0641\u062d\u0629 \u063a\u064a\u0631 \u0645\u062a\u0627\u062d\u0629 \u0641\u064a \u0627\u0644\u0639\u0631\u0628\u064a\u0629.","ca":"Aquesta p\u00e0gina no est\u00e0 disponible en catal\u00e0.","is":"\u00deessi s\u00ed\u00f0a er ekki tilt\u00e6k \u00ed \u00edslenska.","he":"This page is not available in \u05e2\u05d1\u05e8\u05d9\u05ea.","kl":"This page is not available in kalaallisut.","ja":"\u3053\u306e\u30da\u30fc\u30b8\u306f\u65e5\u672c\u8a9e\u3067\u306f\u3054\u5229\u7528\u3044\u305f\u3060\u3051\u307e\u305b\u3093\u3002","lb":"D\u00ebs S\u00e4it ass net op L\u00ebtzebuergesch zoug\u00e4nglech.","nb":"Denne siden er ikke tilgjengelig p\u00e5 norsk.","ru":"\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b","sw":"This page is not available in Kiswahili.","tr":"Bu sayfa t\u00fcrk\u00e7e dilinde mevcut de\u011fildir.","uk":"y\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0432\u0456\u0434\u0441\u0443\u0442\u043d\u044f \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0443 \u0446\u0456\u0454\u0457 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0438.","zh-hans":"\u672c\u9875\u9762\u5e76\u65e0\u4e2d\u6587\u7248\u672c\u3002"},"translation_message":{"bg":"\u0412\u0435\u0440\u0441\u0438\u044f \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a \u0435 \u043d\u0430\u043b\u0438\u0447\u043d\u0430 \u0447\u0440\u0435\u0437 eTranslation, \u0443\u0441\u043b\u0443\u0433\u0430\u0442\u0430 \u0437\u0430 \u043c\u0430\u0448\u0438\u043d\u0435\u043d \u043f\u0440\u0435\u0432\u043e\u0434 \u043d\u0430 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u0442\u0430 \u043a\u043e\u043c\u0438\u0441\u0438\u044f.","es":"El espa\u00f1ol est\u00e1 disponible mediante eTranslation, el servicio de traducci\u00f3n autom\u00e1tica de la Comisi\u00f3n Europea.","cs":"\u010cesk\u00fd p\u0159eklad textu je k dispozici prost\u0159ednictv\u00edm eTranslation, slu\u017eby strojov\u00e9ho p\u0159ekladu Evropsk\u00e9 komise.","da":"En overs\u00e6ttelse til dansk f\u00e5r du via eTranslation, som er Europa-Kommissionens maskinovers\u00e6ttelsestjeneste.","de":"Deutsch ist \u00fcber eTranslation verf\u00fcgbar, den maschinellen \u00dcbersetzungsdienst der Europ\u00e4ischen Kommission.","et":"Eesti keel on Euroopa Komisjoni masint\u00f5lketeenuses eTranslation k\u00e4ttesaadav.","el":"\u0397 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 eTranslation, \u03c4\u03b7\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\u03c2 \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7\u03c2 \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2.","en":"English is available via eTranslation, the European Commission\u0027s machine translation service.","fr":"Le fran\u00e7ais est disponible par eTranslation, le service de traduction automatique de la Commission europ\u00e9enne.","ga":"T\u00e1 an Ghaeilge ar f\u00e1il tr\u00ed eTranslation, seirbh\u00eds meais\u00ednaistri\u00fach\u00e1in an Choimisi\u00fain Eorpaigh.","hr":"Tekst na hrvatskom dostupan je samo kao strojni prijevod koji je generirala usluga eTranslation Europske komisije.","it":"L\u0027italiano \u00e8 disponibile in versione tradotta automaticamente dal servizio eTranslation della Commissione europea.","lv":"Tulkojums latvie\u0161u valod\u0101 ir pieejams, izmantojot Eiropas Komisijas ma\u0161\u012bntulko\u0161anas pakalpojumu \u201ceTranslation\u201d.","lt":"Vertim\u0105 \u012f lietuvi\u0173 kalb\u0105 galima sugeneruoti Europos Komisijos ma\u0161ininio vertimo priemone \u201eeTranslation\u201c.","hu":"Ez a tartalom el\u00e9rhet\u0151 magyar nyelven az eTranslation, az Eur\u00f3pai Bizotts\u00e1g ford\u00edt\u00f3programja \u00e1ltal biztos\u00edtott g\u00e9pi ford\u00edt\u00e1s form\u00e1j\u00e1ban.","mt":"Il-Malti hu disponibbli permezz tal-eTranslation, is-servizz tat-traduzzjoni awtomatika tal-Kummissjoni Ewropea.","nl":"Nederlands is beschikbaar via eTranslation, de machinevertaaldienst van de Europese Commissie.","pl":"T\u0142umaczenie na j\u0119zyk polski zostanie wygenerowane przy pomocy serwisu t\u0142umaczenia maszynowego Komisji Europejskiej eTranslation.","pt-pt":"Vers\u00e3o em portugu\u00eas dispon\u00edvel atrav\u00e9s do servi\u00e7o eTranslation, o servi\u00e7o de tradu\u00e7\u00e3o autom\u00e1tica da Comiss\u00e3o Europeia.","ro":"Versiunea \u00een limba rom\u00e2n\u0103 este disponibil\u0103 prin intermediul eTranslation, serviciul de traducere automat\u0103 al Comisiei Europene.","sk":"Preklad do sloven\u010diny je dostupn\u00fd cez eTranslation, slu\u017ebu strojov\u00e9ho prekladu Eur\u00f3pskej komisie.","sl":"Slovenski prevod je na voljo prek eTranslation, strojnega prevajalnika Evropske komisije.","fi":"Euroopan komission eTranslation-palvelusta voi tilata suomenkielisen konek\u00e4\u00e4nn\u00f6ksen.","sv":"Svenska kan f\u00e5s via eTranslation, EU-kommissionens maskin\u00f6vers\u00e4ttningsverktyg.","ar":"@\u0627\u0644\u0644\u063a\u0629 \u0645\u062a\u0627\u062d\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 eTranslation\u060c \u062e\u062f\u0645\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0622\u0644\u064a\u0629 \u0645\u0646 \u0627\u0644\u0645\u0641\u0648\u0636\u064a\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629.","ca":"catal\u00e0 est\u00e0 disponible a trav\u00e9s d\u2019eTranslation, el servei de traducci\u00f3 autom\u00e0tica de la Comissi\u00f3 Europea.","is":"\u00edslenska er f\u00e1anlegt \u00ed gegnum eTranslation, v\u00e9l\u00fe\u00fd\u00f0ingar\u00fej\u00f3nustu framkv\u00e6mdastj\u00f3rnar Evr\u00f3pusambandsins.","he":"\u05e2\u05d1\u05e8\u05d9\u05ea is available via eTranslation, the European Commission\u0027s machine translation service.","kl":"kalaallisut is available via eTranslation, the European Commission\u0027s machine translation service.","ja":"\u65e5\u672c\u8a9e\u306f\u6b27\u5dde\u59d4\u54e1\u4f1a\u306e\u6a5f\u68b0\u7ffb\u8a33\u30b5\u30fc\u30d3\u30b9\u3067\u3042\u308beTranslation\u3092\u901a\u3058\u3066\u5229\u7528\u3067\u304d\u307e\u3059\u3002","lb":"L\u00ebtzebuergesch ass zoug\u00e4nglech via eTranslation, den automateschen Iwwersetzungsd\u00e9ngscht vun der Europ\u00e4escher Kommissioun.","nb":"norsk er tilgjengelig via eTranslation, EU-kommisjonens tjeneste for maskinoversettelse.","ru":"\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0432 eTranslation, \u0441\u043b\u0443\u0436\u0431\u0435 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430 \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438.","sw":"Kiswahili is available via eTranslation, the European Commission\u0027s machine translation service.","tr":"t\u00fcrk\u00e7e, Avrupa Komisyonu\u0027nun makine terc\u00fcmesi hizmeti olan eTranslation \u00fczerinde mevcuttur.","uk":"y\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0456\u0441\u043d\u0443\u0454 \u0432 eTranslation, \u0441\u043b\u0443\u0436\u0431\u0456 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0443 \u0404\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u044c\u043a\u043e\u0457 \u043a\u043e\u043c\u0456\u0441\u0456\u0457.","zh-hans":"\u53ef\u901a\u8fc7\u6b27\u76df\u59d4\u5458\u4f1a\u7684\u673a\u5668\u7ffb\u8bd1\u670d\u52a1eTranslation\u83b7\u5f97\u4e2d\u6587\u7248\u672c\u3002"},"translate_link":{"bg":"\u041f\u0440\u0435\u0432\u043e\u0434 \u043d\u0430 \u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438","es":"Traducir al espa\u00f1ol","cs":"P\u0159elo\u017eit do \u010de\u0161tiny","da":"Overs\u00e6t til dansk","de":"Ins Deutsche \u00fcbersetzen","et":"T\u00f5lgi eesti keelde","el":"\u039c\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac","en":"Translate to English","fr":"Traduire en fran\u00e7ais","ga":"Aistrigh go Gaeilge","hr":"Prevedi na hrvatski","it":"Tradurre in italiano","lv":"P\u0101rtulkot latvie\u0161u valod\u0101","lt":"I\u0161versti \u012f lietuvi\u0173 kalb\u0105","hu":"Ford\u00edt\u00e1s magyarra","mt":"Ittradu\u010bi g\u0127all-Malti","nl":"Vertalen in het Nederlands","pl":"Przet\u0142umacz na j\u0119zyk polski","pt-pt":"Traduzir para portugu\u00eas","ro":"Traducere \u00een limba rom\u00e2n\u0103","sk":"Prelo\u017ei\u0165 do sloven\u010diny","sl":"Prevedi v sloven\u0161\u010dino","fi":"K\u00e4\u00e4nn\u00e4 suomeksi","sv":"\u00d6vers\u00e4tt till svenska","ar":"\u062a\u0631\u062c\u0645 \u0625\u0644\u0649 \u0627\u0644\u0639\u0631\u0628\u064a\u0629.","ca":"Tradueix-la a catal\u00e0","is":"\u00de\u00fd\u00f0a \u00e1 \u00edslenska","he":"Translate to \u05e2\u05d1\u05e8\u05d9\u05ea","kl":"Translate to kalaallisut","ja":"\u65e5\u672c\u8a9e\u306b\u7ffb\u8a33","lb":"Op L\u00ebtzebuergesch iwwersetzen.","nb":"Oversett til norsk","ru":"\u041f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439","sw":"Translate to Kiswahili","tr":"t\u00fcrk\u00e7e diline terc\u00fcme et","uk":"\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0441\u0442\u0438 \u043d\u0430 y\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430.","zh-hans":"\u7ffb\u8bd1\u4e3a\u4e2d\u6587"},"disclaimer_link":{"bg":"\u0412\u0430\u0436\u043d\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e\u0442\u043d\u043e\u0441\u043d\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u0438\u044f \u043f\u0440\u0435\u0432\u043e\u0434","es":"Informaci\u00f3n importante sobre la traducci\u00f3n autom\u00e1tica","cs":"D\u016fle\u017eit\u00e9 informace o strojov\u00e9m p\u0159ekladu","da":"Vigtig information om maskinovers\u00e6ttelser","de":"Das sollten Sie \u00fcber maschinelle \u00dcbersetzung wissen","et":"Oluline teave masint\u00f5lke kohta","el":"\u03a3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7","en":"Important information about machine translation","fr":"Informations importantes concernant la traduction automatique","ga":"Eolas t\u00e1bhachtach faoin meais\u00ednaistri\u00fach\u00e1n","hr":"Va\u017ene informacije o strojnom prevo\u0111enju","it":"Informazioni importante sulla traduzione automatica","lv":"Svar\u012bga inform\u0101cija par ma\u0161\u012bntulko\u0161anu","lt":"Svarbi informacija apie ma\u0161inin\u012f vertim\u0105","hu":"Fontos tudnival\u00f3k a g\u00e9pi ford\u00edt\u00e1sr\u00f3l","mt":"Informazzjoni importanti dwar it-traduzzjoni awtomatika","nl":"Belangrijke informatie over machinevertaling","pl":"Wa\u017cne informacje o t\u0142umaczeniu maszynowym","pt-pt":"Informa\u00e7\u00f5es importantes sobre a tradu\u00e7\u00e3o autom\u00e1tica","ro":"Informa\u021bii importante despre traducerea automat\u0103","sk":"D\u00f4le\u017eit\u00e9 inform\u00e1cie o strojovom preklade","sl":"Pomembne informacije o strojnem prevodu","fi":"T\u00e4rke\u00e4\u00e4 tietoa konek\u00e4\u00e4nn\u00f6ksist\u00e4","sv":"Viktigt om maskin\u00f6vers\u00e4ttning","ar":"\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0647\u0627\u0645\u0629 \u062d\u0648\u0644 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0622\u0644\u064a\u0629","ca":"Informaci\u00f3 important sobre la traducci\u00f3 autom\u00e0tica","is":"Mikilv\u00e6gar uppl\u00fdsingar um v\u00e9lr\u00e6na \u00fe\u00fd\u00f0ingu","he":"Important information about machine translation","kl":"Important information about machine translation","ja":"\u6a5f\u68b0\u7ffb\u8a33\u306b\u95a2\u3059\u308b\u91cd\u8981\u306a\u60c5\u5831","lb":"Wichteg Informatiounen fir d\u0027automatesch Iwwersetzung","nb":"Viktig informasjon om maskinoversettelse","ru":"\u0412\u0430\u0436\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0435","sw":"Important information about machine translation","tr":"Makine terc\u00fcmesi hakk\u0131nda \u00f6nemli bilgiler","uk":"\u0412\u0430\u0436\u043b\u0438\u0432\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u043f\u0440\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434","zh-hans":"\u5173\u4e8e\u673a\u5668\u7ffb\u8bd1\u7684\u91cd\u8981\u4fe1\u606f"},"close_message":{"bg":"\u0417\u0430\u0442\u0432\u0430\u0440\u044f\u043d\u0435 \u043d\u0430 \u0441\u044a\u043e\u0431\u0449\u0435\u043d\u0438\u0435\u0442\u043e","es":"Cerrar este mensaje","cs":"Zav\u0159\u00edt tuto zpr\u00e1vu","da":"Luk denne meddelelse","de":"Diese Nachricht schlie\u00dfen","et":"Sulge teade","el":"\u039a\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf \u03b1\u03c5\u03c4\u03bf\u03cd \u03c4\u03bf\u03c5 \u03bc\u03b7\u03bd\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2","en":"Close this message","fr":"Fermer ce message","ga":"D\u00fan an teachtaireacht seo","hr":"Zatvori ovu poruku","it":"Chiudi il messaggio","lv":"Aizv\u0113rt \u0161o zi\u0146ojumu","lt":"U\u017edaryti \u0161i\u0105 \u017einut\u0119","hu":"\u00dczenet bez\u00e1r\u00e1sa","mt":"Ag\u0127laq dan il-messa\u0121\u0121","nl":"Bericht sluiten","pl":"Zamknij t\u0119 wiadomo\u015b\u0107","pt-pt":"Fechar esta mensagem","ro":"\u00cenchide\u021bi acest mesaj","sk":"Zatvori\u0165 t\u00fato spr\u00e1vu","sl":"Zapri to sporo\u010dilo","fi":"Sulje t\u00e4m\u00e4 viesti","sv":"St\u00e4ng meddelandet","ar":"\u0627\u0642\u0641\u0644 \u0647\u0630\u0647 \u0627\u0644\u0631\u0633\u0627\u0644\u0629","ca":"Tanca aquest missatge","is":"Loka skilabo\u00f0unum","he":"Close this message","kl":"Close this message","ja":"\u3053\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u9589\u3058\u308b","lb":"D\u00ebs Noriicht zoumaachen","nb":"Lukk meldingen","ru":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u044d\u0442\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435","sw":"Close this message","tr":"Bu mesaj\u0131 kapat","uk":"\u0417\u0430\u043a\u0440\u0438\u0442\u0438 \u0446\u0435 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f","zh-hans":"\u5173\u95ed\u6b64\u4fe1\u606f"}}}},"ewcms_theme":{"defaultLanguagePageTitle":"Guidance - MDCG endorsed documents and other guidance"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"92ad796b90be33ed24a5227f4a49c26e23983ba1391f788f9a3a6990eed9a5bf"}}
+
+
+
+

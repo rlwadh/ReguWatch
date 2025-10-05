@@ -1,0 +1,691 @@
+
+Skip to main content
+
+
+
+
+
+
+Applications
+
+
+
+OBP
+
+
+
+English
+
+
+español
+français
+русский
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Standards
+Sectors
+Health
+IT & related technologies
+Management & services
+Security, safety & risk
+Transport
+Energy
+Diversity & inclusion
+Environmental sustainability
+Food & agriculture
+Materials
+Building & construction
+Engineering
+About ISO
+Insights & news
+Insights
+All insights
+Healthcare
+Artificial intelligence
+Climate change
+Transport
+
+Cybersecurity
+Quality management
+Renewable energy
+Occupational health and safety
+News
+Expert talk
+Standards world
+Media kit
+Taking part
+Store
+
+
+
+
+Search
+
+
+
+
+Cart
+
+
+
+
+
+
+
+
+
+
+News from the standards world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 September 2025
+
+
+
+
+
+ISO and GHG Protocol announce strategic partnership to deliver unified global standards for greenhouse gas emissions accounting
+
+A new era begins in carbon accounting as ISO and GHG Protocol agree to harmonize their portfolios and to co-develop new standards for GHG emissions measurement and reporting.
+
+
+
+
+
+
+
+
+
+
+Institutional news
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 October 2025
+
+
+
+
+Circular economy experts win top ISO award
+
+
+
+
+
+
+
+
+
+
+
+
+9 September 2025
+
+
+
+
+ISO and GHG Protocol announce strategic partnership to deliver unified global standards for greenhouse gas emissions accounting
+
+
+
+
+
+
+
+
+
+
+
+
+11 July 2025
+
+
+
+
+AI and Multimedia Authenticity Standards Collaboration launches two papers to guide future of AI integration, today at the AI for Good Global Summit
+
+
+
+
+
+Load more
+
+jQuery(document).ready(function () {
+        let begin = 0 + 3;
+        const cat = 'standards-world';
+        const pageSize = 8;
+        const button = jQuery("#more-a1e5e64a-8c87-47b3-bc39-f22c43db97da");
+        let buttonWrapper = jQuery("#btn-more-wrapper-a1e5e64a-8c87-47b3-bc39-f22c43db97da");
+        if (buttonWrapper.length === 0) buttonWrapper = button;
+        var nextItems;
+        button.click(function () {
+            button.hide()
+            if (nextItems != null)
+                buttonWrapper.before(nextItems)
+            jQuery.ajax({
+                url: '/cms/render/live/en/sites/isoorg/home/insights-news/news/standards-world/pagecontent/section-latest-news/section-latest-news/latest-news.html.ajax',
+                type: 'GET',
+                data: {
+                    'nb-a1e5e64a-8c87-47b3-bc39-f22c43db97da': pageSize,
+                    'offset-a1e5e64a-8c87-47b3-bc39-f22c43db97da': begin,
+                    'cat-a1e5e64a-8c87-47b3-bc39-f22c43db97da': cat,
+                    'tag': ''
+                },
+                statusCode : {
+                    200 : function () {
+                        begin += pageSize;
+                        button.show()
+                    },
+                    204 : function () {
+                        console.log("nothing more")
+                    }
+                },
+                success: function (result) {
+                    // test if any youtube frames were injected and bind them to youtube.js
+                    if ((typeof initYouTubeVideos === "function") && ($('.youtube-frame').length)) { initYouTubeVideos(); }
+                    nextItems = result
+                },
+                error: function () {
+                    console.log("error")
+                }
+            })
+        });
+        button.trigger("click")
+    })
+
+
+
+
+Latest from our community
+
+
+
+
+
+
+
+
+
+
+12 August 2025
+
+
+
+
+How ISO is shaping sustainable cities
+
+
+
+
+
+
+
+
+
+
+
+
+17 June 2025
+
+
+
+
+Singapore sets benchmark with carbon-neutral tradeshows
+
+
+
+
+
+
+
+
+
+
+
+
+28 January 2025
+
+
+
+
+UNI honoured for excellence in sustainability communication
+
+
+
+
+
+Load more
+
+jQuery(document).ready(function () {
+        let begin = 0 + 3;
+        const cat = 'standards-world';
+        const pageSize = 8;
+        const button = jQuery("#more-1c646ffc-c1f8-48b8-9e91-9c72d074db13");
+        let buttonWrapper = jQuery("#btn-more-wrapper-1c646ffc-c1f8-48b8-9e91-9c72d074db13");
+        if (buttonWrapper.length === 0) buttonWrapper = button;
+        var nextItems;
+        button.click(function () {
+            button.hide()
+            if (nextItems != null)
+                buttonWrapper.before(nextItems)
+            jQuery.ajax({
+                url: '/cms/render/live/en/sites/isoorg/home/insights-news/news/standards-world/pagecontent/section-latest-members/section-latest-members/latest-members.html.ajax',
+                type: 'GET',
+                data: {
+                    'nb-1c646ffc-c1f8-48b8-9e91-9c72d074db13': pageSize,
+                    'offset-1c646ffc-c1f8-48b8-9e91-9c72d074db13': begin,
+                    'cat-1c646ffc-c1f8-48b8-9e91-9c72d074db13': cat,
+                    'tag': ''
+                },
+                statusCode : {
+                    200 : function () {
+                        begin += pageSize;
+                        button.show()
+                    },
+                    204 : function () {
+                        console.log("nothing more")
+                    }
+                },
+                success: function (result) {
+                    // test if any youtube frames were injected and bind them to youtube.js
+                    if ((typeof initYouTubeVideos === "function") && ($('.youtube-frame').length)) { initYouTubeVideos(); }
+                    nextItems = result
+                },
+                error: function () {
+                    console.log("error")
+                }
+            })
+        });
+        button.trigger("click")
+    })
+
+
+
+
+Latest publications
+
+
+
+
+
+
+
+
+
+
+ISO policy brief: Harnessing international standards for responsible AI development and governance
+
+This policy brief explains how consensus-based international standards transform high-level AI principles into practical requirements for the development of safe, transparent, trustworthy and responsible AI systems. Mapping the global policy landscape, it demonstrates how international standards support …
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISO policy brief: The role of the ISO system in supporting countries to implement their Nationally Determined Contributions(NDCs) and National Adaptation Plans (NAPs)
+
+This document is designed to help ISO members engage effectively with policymakers on climate action. It shows how International Standards can support countries in meeting their Nationally Determined Contributions (NDCs) and National Adaptation Plans (NAPs), and how quality infrastructure underpins credible, …
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Environmental Data Standards Mapping – Research report
+
+Environmental data is rapidly becoming one of the most critical assets for addressing global sustainability challenges. From climate resilience to biodiversity protection, the ability to collect, manage, and share environmental data underpins effective policy and innovation.   ISO and Standards Australia …
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISO policy brief: Combatting plastic pollution with International Standards
+
+The ISO Policy brief – Combatting plastic pollution with International Standards highlights how International Standards and National Standards Bodies (NSBs) can support the design and implementation of public policies in response to the plastic pollution crisis. This document is the first in the series …
+
+
+
+
+
+
+
+New and popular standards
+
+
+
+
+
+
+
+
+International Workshop Agreement
+
+
+
+
+
+
+
+IWA 48:2024
+
+
+Framework for implementing environmental, social and governance (ESG) principles
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Standard
+
+ISO 53800:2024
+
+
+
+Guidelines for the promotion and implementation of gender equality and women’s empowerment
+
+Reference number
+ISO 53800:2024
+
+
+
+Edition 1
+2024-05
+
+© ISO 2025
+
+
+
+
+
+
+
+
+
+
+ISO 53800:2024
+
+
+Guidelines for the promotion and implementation of gender equality and women’s empowerment
+
+
+
+
+
+
+
+
+
+
+
+Publicly Available Specification
+
+
+
+
+
+
+
+ISO/UNDP PAS 53002:2024
+
+
+Guidelines for contributing to the United Nations Sustainable Development Goals (SDGs)
+
+
+
+
+
+
+
+
+
+
+
+
+Reference number
+ISO/IEC 42001:2023
+
+© ISO 2025
+
+
+
+
+International Standard
+
+ISO/IEC 42001:2023
+
+
+
+Information technology — Artificial intelligence — Management system
+
+
+
+Edition 1
+2023-12
+
+
+
+
+
+
+
+
+
+
+ISO/IEC 42001:2023
+
+
+Information technology — Artificial intelligence — Management system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insights & news
+
+News
+
+Standards world
+
+
+
+Sitemap
+
+
+
+
+
+
+Standards
+Benefits
+Popular standards
+Conformity assessment
+SDGs
+Sectors
+Health
+IT & related technologies
+Management & services
+Security, safety & risk
+Transport
+Energy
+Environmental sustainability
+Materials
+About ISO
+What we do
+Structure
+Members
+Events
+Strategy
+Insights & news
+Insights
+All insights
+Healthcare
+Artificial intelligence
+Climate change
+Transport
+News
+Expert talk
+Standards world
+Media kit
+Taking part
+Who develops standards
+Deliverables
+Get involved
+Collaborating to accelerate effective climate action
+Resources
+Drafting standards
+Store
+Store
+Publications and products
+
+
+
+
+
+
+
+
+ISO name and logo
+Privacy Notice
+Copyright
+Cookie policy
+Media kit
+Jobs
+Help and support
+
+Making lives
+easier
+,
+safer
+and
+better
+.
+
+
+Sign up
+
+for email updates
+
+
+
+
+
+
+
+
+
+
+
+
+© All Rights Reserved
+
+All ISO publications and materials are protected by copyright and are subject to the user’s acceptance of ISO’s conditions of copyright. Any use, including reproduction requires our written permission. All copyright requests should be addressed to
+copyright@iso.org
+.
+
+With the exception of the content available through the
+ISO Open data
+page and subject to the terms contained therein, no ISO content may be used for any machine learning and/or artificial intelligence and/or similar technologies, including but not limited to accessing or using it to (i) train data for large language or similar models, or (ii) prompt or otherwise enable artificial intelligence or similar tools to generate responses.
+
+We are committed to ensuring that our website is accessible to everyone. If you have any questions or suggestions regarding the accessibility of this site, please
+contact us
+.
+
+
+
+
+
+
+
+Add to cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
