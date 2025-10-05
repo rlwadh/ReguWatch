@@ -1776,7 +1776,7 @@ Bestsellers
 
 'use strict';
 
-    const initMenuDesktop_68e20e8650412 = () => {
+    const initMenuDesktop_68e21c97288b8 = () => {
         return {
             hoverPanelActiveId: null,
             activeSubmenu: null,
