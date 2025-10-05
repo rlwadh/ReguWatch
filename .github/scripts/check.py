@@ -61,14 +61,17 @@ def extract_text_and_links(html, base_url):
     text = tree.body.text(separator="\n", strip=True) if tree.body else tree.text(separator="\n", strip=True)
     links = set()
     for a in tree.css('a[href]') if hasattr(tree, "css") else []:
-        href = a.attributes.get('href','').strip()
+        href_raw = a.attributes.get('href')
+        if not href_raw:
+            continue
+        href = href_raw.strip()
         if not href:
             continue
         href = urljoin(base_url, href)
         href, _ = urldefrag(href)
         links.add(href)
     return text, sorted(links)
-
+    
 def limited_unified_diff(old, new, name, context=8, max_lines=100):
     diff_lines = list(difflib.unified_diff(
         old.splitlines(), new.splitlines(),
