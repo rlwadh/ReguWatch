@@ -1,5 +1,6 @@
 {
   "profile": "community",
+  "summary_mode": "full",
   "profiles": {
     "community": {
       "max_monitors": 150,
