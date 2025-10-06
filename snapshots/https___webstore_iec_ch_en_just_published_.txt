@@ -1165,7 +1165,7 @@ Bestsellers
 
 'use strict';
 
-    const initMenuMobile_68e34a0deda86 = () => {
+    const initMenuMobile_68e40115aca0b = () => {
         return {
             mobilePanelActiveId: null,
             subMobilePanelActiveId: null,
@@ -1776,7 +1776,7 @@ Bestsellers
 
 'use strict';
 
-    const initMenuDesktop_68e3509a5540e = () => {
+    const initMenuDesktop_68e3f6a92356c = () => {
         return {
             hoverPanelActiveId: null,
             activeSubmenu: null,
