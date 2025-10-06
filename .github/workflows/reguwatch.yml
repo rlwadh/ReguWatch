@@ -26,30 +26,41 @@ jobs:
             const maxMonitors = profile.max_monitors ?? 999999;
 
             const { owner, repo } = context.repo;
+
+            // Hole alle offenen Issues mit Label 'reguwatch'
             const issues = await github.paginate(github.rest.issues.listForRepo, {
               owner, repo, state: 'open', labels: 'reguwatch', per_page: 100
             });
 
-            // Aus Issues Short name + URL ziehen, Dopplungen per URL vermeiden
-            const seen = new Set();
             const items = [];
+            const seen = new Set();
+
             for (const is of issues) {
+              // 1) harte Ausnahme: Daily-Summary-Issues nie in die Watchlist
+              const labels = (is.labels || []).map(l => (l.name || l).toLowerCase());
+              const isDailyLabel = labels.includes('daily-summary');
+              const isDailyTitle = (is.title || '').startsWith('ReguWatch Daily Summary ');
+              if (isDailyLabel || isDailyTitle) continue;
+
+              // 2) Name + URL aus dem Formulartext ziehen
               const body = is.body || "";
               const nameMatch = body.match(/\*\*Short name\*\*[\s\S]*?\n\n([\s\S]*?)(?:\n\n|$)/i);
               const name = (nameMatch ? nameMatch[1].trim() : `Issue #${is.number}`) || `Issue #${is.number}`;
               const urlMatch = body.match(/https?:\/\/\S+/);
               const url = urlMatch ? urlMatch[0] : '';
+
               if (!url) continue;
               if (seen.has(url)) continue;
               seen.add(url);
+
               items.push({ name, url, issue: is.number });
             }
 
-            // Stabil sortieren und auf Limit kürzen
+            // Stabil sortieren & limitieren
             items.sort((a,b)=>a.issue-b.issue);
             const limited = items.slice(0, maxMonitors);
 
-            // Ordner anlegen
+            // Verzeichnisse sicherstellen
             for (const d of ['snapshots','state','reports']) {
               if (!fs.existsSync(d)) fs.mkdirSync(d);
             }
