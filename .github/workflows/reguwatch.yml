@@ -84,73 +84,42 @@ jobs:
           git commit -m "Daily: snapshots/state/report [skip ci]" || echo "No changes to commit"
           git push
 
-      - name: Open/Update daily summary issue (then close)
+      - name: Post daily summary as a comment to a single feed issue
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const date = new Date().toISOString().slice(0,10);
-            const path = `reports/${date}/daily-summary.md`;
-            const body = fs.readFileSync(path, 'utf8');
+            const body = fs.readFileSync(`reports/${date}/daily-summary.md`, 'utf8');
+            const FEED_TITLE = "ReguWatch Daily Feed"; // dauerhaftes Sammel-Issue
 
-            // 1) Offene Daily-Issues für heute suchen
-            const { data: existingOpen } = await github.rest.issues.listForRepo({
+            // 1) Offenes Feed-Issue mit Label 'daily-summary' suchen
+            const { data: openIssues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
               state: 'open',
-              labels: 'daily-summary'
+              labels: 'daily-summary',
+              per_page: 100
             });
 
-            for (const is of existingOpen) {
-              if (is.title.includes(date)) {
-                // aktualisieren + schließen
-                await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: is.number,
-                  body,
-                });
-                await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: is.number,
-                  state: 'closed'
-                });
-                return;
-              }
+            let feed = openIssues.find(i => i.title === FEED_TITLE);
+
+            // 2) Falls kein Feed-Issue existiert: neu anlegen (einmalig)
+            if (!feed) {
+              const created = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: FEED_TITLE,
+                body: "This issue collects daily summaries as comments.",
+                labels: ['daily-summary']
+              });
+              feed = created.data;
             }
 
-            // 2) Falls es schon ein geschlossenes Daily von heute gibt: aktualisieren + geschlossen lassen
-            const { data: existingClosed } = await github.rest.issues.listForRepo({
+            // 3) Heutiges Summary als Kommentar anhängen
+            await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              state: 'closed',
-              labels: 'daily-summary'
-            });
-            for (const is of existingClosed) {
-              if (is.title.includes(date)) {
-                await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: is.number,
-                  body
-                });
-                // geschlossen lassen
-                return;
-              }
-            }
-
-            // 3) Neues Daily-Issue erstellen (Mail wird verschickt) … und direkt schließen
-            const created = await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `ReguWatch Daily Summary ${date}`,
-              body,
-              labels: ['daily-summary']
-            });
-            await github.rest.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: created.data.number,
-              state: 'closed'
+              issue_number: feed.number,
+              body: `## ReguWatch Daily Summary ${date}\n\n${body}`
             });
