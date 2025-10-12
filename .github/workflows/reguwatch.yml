@@ -84,16 +84,33 @@ jobs:
           git commit -m "Daily: snapshots/state/report [skip ci]" || echo "No changes to commit"
           git push
 
-      - name: Post daily summary as a comment to a single feed issue
+      - name: Post daily summary as a comment to a single feed issue (with size guard)
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const date = new Date().toISOString().slice(0,10);
-            const body = fs.readFileSync(`reports/${date}/daily-summary.md`, 'utf8');
-            const FEED_TITLE = "ReguWatch Daily Feed"; // dauerhaftes Sammel-Issue
 
-            // 1) Offenes Feed-Issue mit Label 'daily-summary' suchen
+            const date = new Date().toISOString().slice(0,10);
+            const relPath = `reports/${date}/daily-summary.md`;
+            const body = fs.readFileSync(relPath, 'utf8');
+
+            const FEED_TITLE = "ReguWatch Daily Feed"; // dauerhaftes Sammel-Issue
+            const MAX = 65000; // GitHub limit ~65536, kleine Reserve
+            const repoFull = process.env.GITHUB_REPOSITORY;           // owner/repo
+            const branch = process.env.GITHUB_REF_NAME || 'main';     // z.B. main
+            const blobUrl = `https://github.com/${repoFull}/blob/${branch}/${relPath}`;
+
+            // Kommentar-Text mit Größenprüfung
+            let commentBody = `## ReguWatch Daily Summary ${date}\n\n${body}`;
+            if (commentBody.length > MAX) {
+              commentBody =
+                `## ReguWatch Daily Summary ${date}\n\n` +
+                `The full report is too large to embed in a single comment.\n\n` +
+                `**View the complete daily report here:** ${blobUrl}\n\n` +
+                `This keeps notifications short while preserving a full, auditable diff in the repository.`;
+            }
+
+            // 1) Offenes Feed-Issue mit Label 'daily-summary' suchen (oder anlegen)
             const { data: openIssues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -101,10 +118,7 @@ jobs:
               labels: 'daily-summary',
               per_page: 100
             });
-
             let feed = openIssues.find(i => i.title === FEED_TITLE);
-
-            // 2) Falls kein Feed-Issue existiert: neu anlegen (einmalig)
             if (!feed) {
               const created = await github.rest.issues.create({
                 owner: context.repo.owner,
@@ -116,10 +130,10 @@ jobs:
               feed = created.data;
             }
 
-            // 3) Heutiges Summary als Kommentar anhängen
+            // 2) Heutiges Summary als Kommentar anhängen (ein Kommentar = eine E-Mail)
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: feed.number,
-              body: `## ReguWatch Daily Summary ${date}\n\n${body}`
+              body: commentBody
             });
