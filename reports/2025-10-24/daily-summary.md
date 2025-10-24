@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2025-10-24
+
+## Changes today
+
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
 **Changes:** Text & Links
