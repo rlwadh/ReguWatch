@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2025-11-13
+
+## Changes today
+
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
 **Changes:** Text
