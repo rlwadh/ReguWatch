@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2025-11-28
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Text & Links
@@ -32,7 +37,6 @@
 
 **Added links (all):**
 - https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en
-
 
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
@@ -89,7 +93,6 @@
 - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202502371
 - https://health.ec.europa.eu/latest-updates/eudamed-four-first-modules-will-be-mandatory-use-28-may-2026-2025-11-27_en
 
-
 ### Issue #5
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/directives_en](https://health.ec.europa.eu/medical-devices-sector/directives_en)
 **Changes:** Text & Links
@@ -128,7 +131,6 @@
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
 
-
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
 **Changes:** Text & Links
@@ -166,7 +168,6 @@
 
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
-
 
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
@@ -232,7 +233,6 @@
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
 
-
 ### Issue #8
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en](https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en)
 **Changes:** Text & Links
@@ -271,7 +271,6 @@
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
 
-
 ### Issue #9
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en](https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en)
 **Changes:** Text & Links
@@ -309,7 +308,6 @@
 
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
-
 
 ### Issue #11
 **Page:** [https://www.iso.org/insights/standards-world](https://www.iso.org/insights/standards-world)
