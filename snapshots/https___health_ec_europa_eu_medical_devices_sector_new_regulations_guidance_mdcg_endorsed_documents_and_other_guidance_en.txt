@@ -515,6 +515,11 @@ New technologies
 Reference
 Title
 Publication
+MDCG 2025-9
+Guidance on Breakthrough Devices (BtX) under Regulations 2017/745 & 2017/746
+Note:
+Pilot to roll-out the guidance is expected to be launched in Q2 2026
+December 2025
 MDCG 2025-6
 FAQ on Interplay between the Medical Devices Regulation (MDR) & In vitro Diagnostic Medical Devices Regulation (IVDR) and the Artificial Intelligence Act (AIA)
 June 2025
@@ -849,6 +854,10 @@ January 2018
 Latest updates
 
 News announcement
+15 December 2025
+MDCG 2025-9: Guidance on Breakthrough Devices (BtX) under Regulations 2017/745 & 2017/746
+1 min read
+News announcement
 1 December 2025
 Monitoring of availability of medical devices on the EU Market - Study overview and 2nd survey results
 1 min read
@@ -859,10 +868,6 @@ The EUDAMED four first modules will be mandatory to use as from 28 May 2026
 News announcement
 10 November 2025
 Coordinated assessment for clinical investigations: a call for expression of interest
-1 min read
-News announcement
-12 September 2025
-Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 - September 2025
 1 min read
 See all
 
@@ -937,7 +942,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1062"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1072"}]}
 
 {"utility":"cck"}
 
