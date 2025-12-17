@@ -535,16 +535,16 @@ Information security, cybersecurity and privacy protection — Privacy informati
 
 
 
-New project
+Committee Draft
 
-ISO/UNDP AWI 53002
+ISO/UNDP CD 53002
 
 
 
 Management systems for the United Nations Sustainable Development Goals SDGs - Implementation guidance
 
 Reference number
-ISO/UNDP AWI 53002
+ISO/UNDP CD 53002
 
 
 
@@ -554,7 +554,7 @@ Edition 1
 
 
 
-New project
+Committee Draft
 
 
 
@@ -562,7 +562,7 @@ New project
 
 
 
-ISO/UNDP AWI 53002
+ISO/UNDP CD 53002
 
 
 Management systems for the United Nations Sustainable Development Goals SDGs - Implementation guidance
