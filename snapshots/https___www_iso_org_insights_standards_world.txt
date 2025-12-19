@@ -535,16 +535,18 @@ Information security, cybersecurity and privacy protection — Privacy informati
 
 
 
-Committee Draft
 
-ISO/UNDP CD 53002
+Draft
+International Standard
+
+ISO/UNDP DIS 53002
 
 
 
-Management systems for the United Nations Sustainable Development Goals SDGs - Implementation guidance
+Management systems for the United Nations Sustainable Development Goals SDGs — Implementation guidance
 
 Reference number
-ISO/UNDP CD 53002
+ISO/UNDP DIS 53002
 
 
 
@@ -553,19 +555,19 @@ Edition 1
 © ISO 2025
 
 
-
-Committee Draft
-
-
+Draft
+International Standard
 
 
 
 
 
-ISO/UNDP CD 53002
 
 
-Management systems for the United Nations Sustainable Development Goals SDGs - Implementation guidance
+ISO/UNDP DIS 53002
+
+
+Management systems for the United Nations Sustainable Development Goals SDGs — Implementation guidance
 
 
 
