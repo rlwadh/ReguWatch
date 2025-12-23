@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2025-12-23
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Text
