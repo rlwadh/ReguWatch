@@ -440,7 +440,7 @@ ISO 17298:2025
 Edition 1
 2025-10
 
-© ISO 2025
+© ISO 2026
 
 
 
@@ -507,7 +507,7 @@ ISO/IEC 27701:2025
 Edition 2
 2025-10
 
-© ISO 2025
+© ISO 2026
 
 
 
@@ -552,7 +552,7 @@ ISO/UNDP DIS 53002
 
 Edition 1
 
-© ISO 2025
+© ISO 2026
 
 
 Draft
