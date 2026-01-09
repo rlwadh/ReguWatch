@@ -169,6 +169,20 @@ European Parliament
 website. You can follow the development of the legislative decision-making process on the
 "Legislative Observatory" of the European Parliament
 .
+The Commission services have prepared
+non-official working documents
+integrating the changes as proposed in the Commission proposal COM(2025)1023 final of 16 December 2025 in the consolidated versions of Regulations (EU) 2017/745 and (EU) 2017/746:
+MDR -
+Articles
+-
+Annexes
+IVDR -
+Articles
+-
+Annexes
+These documents have no legal effect. Only the text of the Commission proposal COM(2025)1023 as published on
+EUR-LEX
+has legal effect.
 Medical Devices regulations
 The EU revised the laws governing medical devices and in vitro diagnostics to align with the developments of the sector over the last 20 years. The priority was to ensure a robust, transparent and sustainable regulatory framework and maintain a high level of safety, while supporting innovation.
 Two new regulations on medical devices and in vitro diagnostic medical devices entered into force in May 2017.
@@ -410,7 +424,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"New Regulations"},{"id":7,"value":"fafbce50-281c-4195-a2d7-22c9fc22c58f"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"482"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"New Regulations"},{"id":7,"value":"fafbce50-281c-4195-a2d7-22c9fc22c58f"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"503"}]}
 
 {"utility":"cck"}
 
