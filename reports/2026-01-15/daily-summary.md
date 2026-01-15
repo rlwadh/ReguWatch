@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-01-15
+
+## Changes today
+
 ### Issue #11
 **Page:** [https://www.iso.org/insights/standards-world](https://www.iso.org/insights/standards-world)
 **Changes:** Text & Links
