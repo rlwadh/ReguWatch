@@ -71,6 +71,7 @@ Resources
 ISO 22000 explained
 ISO 9001 explained
 ISO 14001 explained
+ISO 42001 explained: What it is, why it matters, and how organizations manage AI responsibly
 Taking part
 Store
 
@@ -249,6 +250,24 @@ Latest from our community
 
 
 
+19 January 2026
+
+
+
+
+From mining scars to sustainable futures: ISO 24419-1 drives renewal in Peru
+
+
+
+
+
+
+
+
+
+
+
+
 12 August 2025
 
 
@@ -273,24 +292,6 @@ How ISO is shaping sustainable cities
 
 
 Singapore sets benchmark with carbon-neutral tradeshows
-
-
-
-
-
-
-
-
-
-
-
-
-28 January 2025
-
-
-
-
-UNI honoured for excellence in sustainability communication
 
 
 
@@ -633,6 +634,7 @@ Resources
 ISO 22000 explained
 ISO 9001 explained
 ISO 14001 explained
+ISO 42001 explained: What it is, why it matters, and how organizations manage AI responsibly
 Taking part
 Who develops standards
 Deliverables
