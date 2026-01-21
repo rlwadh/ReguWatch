@@ -71,7 +71,8 @@ Resources
 ISO 22000 explained
 ISO 9001 explained
 ISO 14001 explained
-ISO 42001 explained: What it is, why it matters, and how organizations manage AI responsibly
+ISO 42001 explained
+ISO 45001 explained
 Taking part
 Store
 
@@ -634,7 +635,8 @@ Resources
 ISO 22000 explained
 ISO 9001 explained
 ISO 14001 explained
-ISO 42001 explained: What it is, why it matters, and how organizations manage AI responsibly
+ISO 42001 explained
+ISO 45001 explained
 Taking part
 Who develops standards
 Deliverables
