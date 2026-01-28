@@ -111,8 +111,6 @@ Search
 
 
 
-
-
 Public Health
 
 
@@ -251,7 +249,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"EUDAMED"},{"id":7,"value":"f6dd25e1-3b48-41da-bdcf-45560375b3d3"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device organisation-of-health-care health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"24"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"EUDAMED"},{"id":7,"value":"f6dd25e1-3b48-41da-bdcf-45560375b3d3"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"24"}]}
 
 {"utility":"cck"}
 
