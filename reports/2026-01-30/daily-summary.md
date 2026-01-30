@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-01-30
+
+## Changes today
+
 ### Issue #5
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/directives_en](https://health.ec.europa.eu/medical-devices-sector/directives_en)
 **Changes:** Text
@@ -21,7 +26,6 @@
  See all
  
 ```
-
 
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
@@ -49,7 +53,6 @@
  
 ```
 
-
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
 **Changes:** Text
@@ -76,7 +79,6 @@
  
 ```
 
-
 ### Issue #8
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en](https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en)
 **Changes:** Text
@@ -102,7 +104,6 @@
  See all
  
 ```
-
 
 ### Issue #9
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en](https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en)
