@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-02-04
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Text & Links
@@ -36,7 +41,6 @@
 **Removed links (all):**
 - https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3077
 
-
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
 **Changes:** Text & Links
@@ -71,7 +75,6 @@
 
 **Added links (all):**
 - https://ec.europa.eu/newsroom/sante/newsletter-archives/71729
-
 
 ### Issue #5
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/directives_en](https://health.ec.europa.eu/medical-devices-sector/directives_en)
@@ -111,7 +114,6 @@
 **Removed links (all):**
 - https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3077
 
-
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
 **Changes:** Text & Links
@@ -149,7 +151,6 @@
 
 **Removed links (all):**
 - https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3077
-
 
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
@@ -189,7 +190,6 @@
 **Removed links (all):**
 - https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3077
 
-
 ### Issue #8
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en](https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en)
 **Changes:** Text & Links
@@ -227,7 +227,6 @@
 
 **Removed links (all):**
 - https://ec.europa.eu/commission/presscorner/detail/en/ip_25_3077
-
 
 ### Issue #9
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en](https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en)
