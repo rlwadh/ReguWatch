@@ -12,30 +12,127 @@
     <!-- *** 2. Preconnect *** -->
 
     <!-- *** 3. Synchronous JS *** -->
+    <!-- Usercentrics loader FIRST -->
+<script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-settings-id="Ap6i4qiUU-LDx1" async></script>
+        
+<!-- Consent Mode: dataLayer + gtag + defaults BEFORE any Google tag -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){ dataLayer.push(arguments); }
+
+// Advanced mode defaults: deny until user acts
+gtag('consent','default',{
+  ad_storage:             'denied',
+  analytics_storage:      'denied',
+  ad_user_data:           'denied',
+  ad_personalization:     'denied',
+  functionality_storage:  'denied',
+  personalization_storage:'denied',
+  security_storage:       'granted'  
+});
+</script>
+
+<!-- Bridge: Usercentrics consent_status -> Google Consent Mode + Matomo TM -->
+<script>
+(function () {
+  if (!window.dataLayer || typeof gtag !== 'function') return;
+
+  function updateGcmFromConsent(obj) {
+    if (!obj) return;
+
+    var services   = obj;
+    var categories = obj.ucCategory || {};
+
+    // Use either the specific service or the marketing category
+    var remarketingOK =
+      services["Google Ads Remarketing"] === true ||
+      categories.marketing === true;
+    
+    // Analytics consent
+    var analyticsOK =
+      services["Google Analytics"] === true ||
+      categories.analytics === true;
+
+    // Functionality (cookies needed for site features)
+    var functionalOK =
+      categories.functional === true;
+
+    // Personalization (often no dedicated UC category; adjust if you have one)
+    var personalizationOK =
+      // categories.preferences === true ||  // if you use "preferences"
+      categories.functional === true;     // fallback
+
+    gtag('consent','update',{
+      ad_storage:              remarketingOK     ? 'granted' : 'denied',
+      ad_user_data:            remarketingOK     ? 'granted' : 'denied',
+      ad_personalization:      remarketingOK     ? 'granted' : 'denied',
+      analytics_storage:       analyticsOK       ? 'granted' : 'denied',
+      functionality_storage:   functionalOK      ? 'granted' : 'denied',
+      personalization_storage: personalizationOK ? 'granted' : 'denied',
+      security_storage:        'granted'
+    });
+  }
+
+  var origPush = window.dataLayer.push.bind(window.dataLayer);
+
+  window.dataLayer.push = function () {
+    var args = Array.prototype.slice.call(arguments);
+    var e    = args[0];
+
+    if (e && e.event === 'consent_status') {
+      // 1) Update Google Consent Mode
+      updateGcmFromConsent(e);
+
+      // 2) Forward the same event to Matomo Tag Manager
+      if (window._mtm && typeof window._mtm.push === 'function') {
+        window._mtm.push(e);
+      }
+    }
+
+    return origPush.apply(window.dataLayer, args);
+  };
+
+  // Handle any consent_status already present when this script runs
+  for (var i = 0; i < window.dataLayer.length; i++) {
+    var item = window.dataLayer[i];
+    if (item && item.event === 'consent_status') {
+      updateGcmFromConsent(item);
+      if (window._mtm && typeof window._mtm.push === 'function') {
+        window._mtm.push(item);
+      }
+    }
+  }
+})();
+</script>
+
+<!-- Matomo Tag Manager (UC Manager container) -->
+<script>
+  var _mtm = window._mtm = window._mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  (function() {
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true;
+    g.src='https://cdn.matomo.cloud/iso.matomo.cloud/container_MFgeJvRK.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<meta name="google-site-verification" content="mQuqWPbWruZdQgZR8QwbxOWnjjxkcFiyJLHWY-cOOHk" /><!-- dataLayer for Tag Manager -->
     <script>
-      dataLayer = [{
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
         'pageType': 'jnt:page',
         'pageLanguage': 'en',
         'pageMode': 'live',
         'pageServer': 'prod'
-      }];
+      });
     </script>
 
-    <meta name="google-site-verification" content="mQuqWPbWruZdQgZR8QwbxOWnjjxkcFiyJLHWY-cOOHk" />
-<!-- Matomo Tag Manager -->
-<script>
-var _mtm = window._mtm = window._mtm || [];
-_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.async=true; g.src='https://cdn.matomo.cloud/iso.matomo.cloud/container_dINwYKex.js'; s.parentNode.insertBefore(g,s);
-</script>
-<!-- End Matomo Tag Manager -->
-<!-- *** 4. Synchronous CSS *** -->
-    <link id="woodCss" rel="stylesheet" href="/modules/isoorg-template/css/wood.jahia.min.css?v4.6.0" media="screen,print,handheld" type="text/css"/>
+    <!-- *** 4. Synchronous CSS *** -->
+    <link id="woodCss" rel="stylesheet" href="/modules/isoorg-template/css/wood.jahia.min.css?v4.7.0" media="screen,print,handheld" type="text/css"/>
 
     <!-- *** 5. Preload *** -->
     <!-- *** 6. Asynchronous JS (async, defer, type=module JS) *** -->
-<script id="woodJs" src="/modules/isoorg-template/javascript/wood.jahia.min.js?v4.6.0" defer></script>
+<script id="woodJs" src="/modules/isoorg-template/javascript/wood.jahia.min.js?v4.7.0" defer></script>
     <script id="customJs" src="/modules/isoorg-template/javascript/custom.js?v1" defer></script>
 
     <script type="module">
