@@ -63,6 +63,7 @@ Cybersecurity
 Quality management
 Renewable energy
 Occupational health and safety
+Quantum computing
 News
 Expert talk
 Standards world
