@@ -442,15 +442,17 @@ Article 10a – interruption or discontinuation of supply
 Reference
 Title
 Publication
-Q&A rev.1
+Q&A rev.2
 Q&A Obligation to inform in case of interruption or discontinuation of supply
-December 2024
+April 2026
 MDCG 2024-16
 Manufacturer Information Form on Interruption or Discontinuation of Supply of certain medical devices and certain in vitro diagnostic medical devices
 December 2024
 MDCG 2024-16 Annex
 Device Identification table
 December 2024
+Article 10a Decision tree
+April 2026
 In Vitro Diagnostic medical devices (IVD)
 Reference
 Title
@@ -856,20 +858,20 @@ January 2018
 Latest updates
 
 News announcement
+1 April 2026
+Rev.2 - Q&A Obligation to inform in case of interruption or discontinuation of supply
+1 min read
+News announcement
+1 April 2026
+Article 10a Decision tree
+1 min read
+News announcement
 23 March 2026
 Recording available - Second training on EMDN: structure, consultation process, and practical application
 1 min read
 News announcement
 18 March 2026
 Recording available - Commissioner Várhelyi to open high-level event on medical devices
-1 min read
-News announcement
-13 March 2026
-Commissioner Várhelyi to open high-level event on medical devices
-1 min read
-News announcement
-3 February 2026
-Medical Devices: Register now for high-level conference on 16 March 2026
 1 min read
 See all
 
@@ -944,7 +946,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1079"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1080"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 
