@@ -176,10 +176,10 @@ Reference
 Title
 Publication
 Manual on Borderline
-Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v4
+Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5
 Background note
 on the use of the Manual on borderline and classification for medical devices under the Directives.
-September 2025
+April 2026
 MDCG 2024-13
 Regulatory status of ethylene oxide (EtO) intended for the sterilisation of medical devices
 October 2024
@@ -376,8 +376,17 @@ European Medical Device Nomenclature (EMDN)
 Reference
 Title
 Publication
+MDCG 2026-3
+2026 EMDN Version History
+April 2026
+MDCG 2026-2
+2025-2026 Annual Revision Change Log
+April 2026
+MDCG 2026-1
+Summary of EMDN 2025 Submissions and outcome of annual revision
+April 2026
 MDCG 2025-3
-EMDN Version History
+2024-2025 Annual Revision Change Log
 January 2025
 MDCG 2025-2
 Summary of EMDN 2024 Submissions and outcome of annual revision
@@ -390,16 +399,18 @@ Procedures for the
 updates
 of the EMDN
 January 2025
-MDCG 2021-12 rev.1
+MDCG 2021-12 rev.2
 FAQ
 on the European Medical Device Nomenclature (
 EMDN
 )
-January 2025
+April 2026
 The EMDN – The nomenclature of use in EUDAMED
 January 2020
 The CND nomenclature – Background and general principles
 January 2020
+Guidance on the Version History
+April 2026
 MDCG 2018-2
 Future EU medical device nomenclature - Description of requirements
 March 2018
@@ -858,20 +869,20 @@ January 2018
 Latest updates
 
 News announcement
+22 April 2026
+Update – Documents on European Medical Device Nomenclature (EMDN)
+1 min read
+News announcement
+22 April 2026
+Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5
+1 min read
+News announcement
 20 April 2026
 Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)
 1 min read
 News announcement
 15 April 2026
 Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics
-1 min read
-News announcement
-1 April 2026
-Rev.2 - Q&A Obligation to inform in case of interruption or discontinuation of supply
-1 min read
-News announcement
-1 April 2026
-Article 10a Decision tree
 1 min read
 See all
 
@@ -946,7 +957,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1081"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1094"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 
