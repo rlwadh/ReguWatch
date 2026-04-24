@@ -701,7 +701,7 @@ person responsible for regulatory compliance
 December 2023
 Post-Market Surveillance and Vigilance (PMSV)
 PMSV reporting forms
-(Update 23 March 2026)
+(Update 23 April 2026)
 Reference
 Title
 Publication
@@ -869,6 +869,10 @@ January 2018
 Latest updates
 
 News announcement
+23 April 2026
+Update - New manufacturer incident report XSD files and XSL files (SB 11154)
+1 min read
+News announcement
 22 April 2026
 Update – Documents on European Medical Device Nomenclature (EMDN)
 1 min read
@@ -879,10 +883,6 @@ Update - Manual on borderline and classification under Regulations (EU) 2017/745
 News announcement
 20 April 2026
 Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)
-1 min read
-News announcement
-15 April 2026
-Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics
 1 min read
 See all
 

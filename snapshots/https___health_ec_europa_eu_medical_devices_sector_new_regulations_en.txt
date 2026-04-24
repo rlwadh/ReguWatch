@@ -359,6 +359,10 @@ In addition to setting priorities, the joint implementation plan serves to monit
 Latest updates
 
 News announcement
+23 April 2026
+Update - New manufacturer incident report XSD files and XSL files (SB 11154)
+1 min read
+News announcement
 22 April 2026
 Update – Documents on European Medical Device Nomenclature (EMDN)
 1 min read
@@ -369,10 +373,6 @@ Update - Manual on borderline and classification under Regulations (EU) 2017/745
 News announcement
 20 April 2026
 Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)
-1 min read
-News announcement
-15 April 2026
-Pilot programme to be launched to support breakthrough medical devices and in vitro diagnostics
 1 min read
 See all
 
