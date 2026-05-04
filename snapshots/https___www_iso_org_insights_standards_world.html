@@ -34,40 +34,38 @@ gtag('consent','default',{
 
 <!-- Bridge: Usercentrics consent_status -> Google Consent Mode + Matomo TM -->
 <script>
-(function () {
+(function() {
   if (!window.dataLayer || typeof gtag !== 'function') return;
+
+  var UC_PERFORMANCE_KEY = 'customcategory-1695b4b3-ec23-4984-bf6a-ff0df7575dfe';
 
   function updateGcmFromConsent(obj) {
     if (!obj) return;
 
-    var services   = obj;
+    var services = obj;
     var categories = obj.ucCategory || {};
 
-    // Use either the specific service or the marketing category
+    // Marketing controls Google Ads / remarketing
     var remarketingOK =
       services["Google Ads Remarketing"] === true ||
       categories.marketing === true;
-    
-    // Analytics consent
-    var analyticsOK =
-      services["Google Analytics"] === true ||
-      categories.analytics === true;
 
-    // Functionality (cookies needed for site features)
+    // Performance controls analytics
+    var analyticsOK =
+      categories[UC_PERFORMANCE_KEY] === true;
+
     var functionalOK =
       categories.functional === true;
 
-    // Personalization (often no dedicated UC category; adjust if you have one)
     var personalizationOK =
-      // categories.preferences === true ||  // if you use "preferences"
-      categories.functional === true;     // fallback
+      categories.functional === true;
 
-    gtag('consent','update',{
-      ad_storage:              remarketingOK     ? 'granted' : 'denied',
-      ad_user_data:            remarketingOK     ? 'granted' : 'denied',
-      ad_personalization:      remarketingOK     ? 'granted' : 'denied',
-      analytics_storage:       analyticsOK       ? 'granted' : 'denied',
-      functionality_storage:   functionalOK      ? 'granted' : 'denied',
+    gtag('consent', 'update', {
+      ad_storage:              remarketingOK ? 'granted' : 'denied',
+      ad_user_data:            remarketingOK ? 'granted' : 'denied',
+      ad_personalization:      remarketingOK ? 'granted' : 'denied',
+      analytics_storage:       analyticsOK   ? 'granted' : 'denied',
+      functionality_storage:   functionalOK  ? 'granted' : 'denied',
       personalization_storage: personalizationOK ? 'granted' : 'denied',
       security_storage:        'granted'
     });
@@ -75,15 +73,13 @@ gtag('consent','default',{
 
   var origPush = window.dataLayer.push.bind(window.dataLayer);
 
-  window.dataLayer.push = function () {
+  window.dataLayer.push = function() {
     var args = Array.prototype.slice.call(arguments);
-    var e    = args[0];
+    var e = args[0];
 
     if (e && e.event === 'consent_status') {
-      // 1) Update Google Consent Mode
       updateGcmFromConsent(e);
 
-      // 2) Forward the same event to Matomo Tag Manager
       if (window._mtm && typeof window._mtm.push === 'function') {
         window._mtm.push(e);
       }
@@ -92,11 +88,11 @@ gtag('consent','default',{
     return origPush.apply(window.dataLayer, args);
   };
 
-  // Handle any consent_status already present when this script runs
   for (var i = 0; i < window.dataLayer.length; i++) {
     var item = window.dataLayer[i];
     if (item && item.event === 'consent_status') {
       updateGcmFromConsent(item);
+
       if (window._mtm && typeof window._mtm.push === 'function') {
         window._mtm.push(item);
       }
