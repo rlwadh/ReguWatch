@@ -263,6 +263,8 @@ Q&A
 Regulation 2020/561
 of the European Parliament and of the Council of 23 April 2020 amending Regulation (EU) 2017/745 on medical devices as regards the dates of application of certain of its provisions postponed the entry into application of Regulation (EU) 2017/745 (MDR) by one year until 26 May 2021.
 Implementing measures for regulations
+2026
+Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)
 2025
 Implementing Decision 2025/1324 – additional expert panel on medical devices
 (amending
@@ -359,6 +361,10 @@ In addition to setting priorities, the joint implementation plan serves to monit
 Latest updates
 
 News announcement
+5 May 2026
+Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)
+1 min read
+News announcement
 23 April 2026
 Update - New manufacturer incident report XSD files and XSL files (SB 11154)
 1 min read
@@ -369,10 +375,6 @@ Update – Documents on European Medical Device Nomenclature (EMDN)
 News announcement
 22 April 2026
 Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5
-1 min read
-News announcement
-20 April 2026
-Update - MDCG 2021-24 rev.1 - Guidance on classification of medical devices (April 2026)
 1 min read
 See all
 
@@ -429,10 +431,11 @@ Related links
 EU Health Policy Platform
 Food Safety
 Follow the European Commission
+Mastodon
+LinkedIn
+Bluesky
 Facebook
-Instagram
-X
-Linkedin
+Youtube
 Other
 Contact us
 Report an IT vulnerability
@@ -443,7 +446,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"New Regulations"},{"id":7,"value":"fafbce50-281c-4195-a2d7-22c9fc22c58f"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"medical-device health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"521"},{"id":30,"value":"3woa14-node-1086"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"New Regulations"},{"id":7,"value":"fafbce50-281c-4195-a2d7-22c9fc22c58f"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"526"},{"id":30,"value":"3woa14-node-1086"}]}
 
 {"utility":"cck"}
 
