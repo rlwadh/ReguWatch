@@ -701,7 +701,7 @@ person responsible for regulatory compliance
 December 2023
 Post-Market Surveillance and Vigilance (PMSV)
 PMSV reporting forms
-(Update 23 April 2026)
+(Update 7 May 2026)
 Reference
 Title
 Publication
@@ -869,6 +869,10 @@ January 2018
 Latest updates
 
 News announcement
+7 May 2026
+Update – new manufacturer incident report PDF file (SB 11154) and important information about which MIR 7.3.1. versions are accepted from 1st May 2026
+1 min read
+News announcement
 5 May 2026
 Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)
 1 min read
@@ -879,10 +883,6 @@ Update - New manufacturer incident report XSD files and XSL files (SB 11154)
 News announcement
 22 April 2026
 Update – Documents on European Medical Device Nomenclature (EMDN)
-1 min read
-News announcement
-22 April 2026
-Update - Manual on borderline and classification under Regulations (EU) 2017/745 and 2017/746 v5
 1 min read
 See all
 
