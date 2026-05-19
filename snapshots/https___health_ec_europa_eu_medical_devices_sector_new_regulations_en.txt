@@ -361,6 +361,10 @@ In addition to setting priorities, the joint implementation plan serves to monit
 Latest updates
 
 News announcement
+18 May 2026
+New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies
+1 min read
+News announcement
 7 May 2026
 Update – new manufacturer incident report PDF file (SB 11154) and important information about which MIR 7.3.1. versions are accepted from 1st May 2026
 1 min read
@@ -371,10 +375,6 @@ Implementing Regulation (EU) 2026/977 – uniform requirements for conformity as
 News announcement
 23 April 2026
 Update - New manufacturer incident report XSD files and XSL files (SB 11154)
-1 min read
-News announcement
-22 April 2026
-Update – Documents on European Medical Device Nomenclature (EMDN)
 1 min read
 See all
 
