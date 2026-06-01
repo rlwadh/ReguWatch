@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-06-01
+
+## Changes today
+
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
 **Changes:** Text
