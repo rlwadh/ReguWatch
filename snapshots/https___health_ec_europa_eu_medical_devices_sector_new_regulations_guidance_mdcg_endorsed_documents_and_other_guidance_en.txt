@@ -869,6 +869,10 @@ January 2018
 Latest updates
 
 News announcement
+11 June 2026
+Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)
+1 min read
+News announcement
 18 May 2026
 New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies
 1 min read
@@ -879,10 +883,6 @@ Update – new manufacturer incident report PDF file (SB 11154) and important in
 News announcement
 5 May 2026
 Implementing Regulation (EU) 2026/977 – uniform requirements for conformity assessment and notified bodies (Annex VII)
-1 min read
-News announcement
-23 April 2026
-Update - New manufacturer incident report XSD files and XSL files (SB 11154)
 1 min read
 See all
 
