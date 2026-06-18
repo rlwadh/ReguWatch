@@ -351,6 +351,9 @@ EUDAMED Information Centre
 Reference
 Title
 Publication
+MDCG 2026-4
+MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use
+June 2026
 Gradual roll out of EUDAMED
 Q&A on practical aspects related to the implementation of the gradual roll-out of Eudamed pursuant to the MDR and IVDR, as amended by Regulation (EU) 2024/1860 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices1
 November 2024
@@ -872,20 +875,20 @@ January 2018
 Latest updates
 
 News announcement
-17 June 2026
-New harmonised standards for the Regulations on medical devices
+18 June 2026
+New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use
 1 min read
 News announcement
 17 June 2026
 New guidance document on the “EU REP” symbol for authorised representatives
 1 min read
 News announcement
-11 June 2026
-Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)
+17 June 2026
+New harmonised standards for the Regulations on medical devices
 1 min read
 News announcement
-18 May 2026
-New Implementing Regulation sets out uniform requirements for conformity assessment and notified bodies
+11 June 2026
+Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)
 1 min read
 See all
 
@@ -951,7 +954,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1100"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1106"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 
