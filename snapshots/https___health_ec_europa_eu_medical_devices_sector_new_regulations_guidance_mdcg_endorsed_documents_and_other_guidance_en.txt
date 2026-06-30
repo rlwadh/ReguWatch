@@ -875,6 +875,10 @@ January 2018
 Latest updates
 
 News announcement
+29 June 2026
+Medical Devices: Delegated acts on well-established technologies published
+1 min read
+News announcement
 18 June 2026
 New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use
 1 min read
@@ -885,10 +889,6 @@ New guidance document on the “EU REP” symbol for authorised representatives
 News announcement
 17 June 2026
 New harmonised standards for the Regulations on medical devices
-1 min read
-News announcement
-11 June 2026
-Update MIR 7.3.1. form – Updated XSD-XSL files for field 4.3.3.d. and Changelog file (SB 11252)
 1 min read
 See all
 
