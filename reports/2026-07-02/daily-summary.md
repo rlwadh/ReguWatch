@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-07-02
+
+## Changes today
+
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
 **Changes:** Text & Links
@@ -30,7 +35,6 @@
 **Added links (all):**
 - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601359
 - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601451
-
 
 ### Issue #11
 **Page:** [https://www.iso.org/insights/standards-world](https://www.iso.org/insights/standards-world)
