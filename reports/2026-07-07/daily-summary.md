@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-07-07
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Links
@@ -7,7 +12,6 @@
 
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
-
 
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
@@ -593,7 +597,6 @@
 - https://health.ec.europa.eu/publications/staff-working-document-cost-savings-proposal-reduce-and-simplify-regulations-medical-and-diagnostic_en
 - https://www.medtecheurope.org/resource-library/manufacturers-declaration-in-relation-to-regulation-eu-2024-1860/
 
-
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
 **Changes:** Text & Links
@@ -827,7 +830,6 @@
 - https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_sv
 - https://health.ec.europa.eu/medical-devices-sector_en
 - https://health.ec.europa.eu/medical-devices-topics-interest/harmonised-standards_en
-
 
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
