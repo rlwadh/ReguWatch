@@ -539,17 +539,17 @@ Information security, cybersecurity and privacy protection — Privacy informati
 
 
 
-Draft
+Final Draft
 International Standard
 
-ISO/UNDP DIS 53002
+ISO/UNDP FDIS 53002
 
 
 
-Management systems for the United Nations Sustainable Development Goals SDGs — Implementation guidance
+Management systems for the United Nations Sustainable Development Goals (SDGs) — Implementation guidance
 
 Reference number
-ISO/UNDP DIS 53002
+ISO/UNDP FDIS 53002
 
 
 
@@ -558,7 +558,7 @@ Edition 1
 © ISO 2026
 
 
-Draft
+Final Draft
 International Standard
 
 
@@ -567,10 +567,10 @@ International Standard
 
 
 
-ISO/UNDP DIS 53002
+ISO/UNDP FDIS 53002
 
 
-Management systems for the United Nations Sustainable Development Goals SDGs — Implementation guidance
+Management systems for the United Nations Sustainable Development Goals (SDGs) — Implementation guidance
 
 
 
