@@ -752,6 +752,9 @@ UDI Helpdesk
 Reference
 Title
 Publication
+MDCG 2026-5
+Position Paper: UDI assignment between manufacturers and distributors
+July 2026
 MDCG 2025-8 - rev.1
 Guidance on the implementation of the Master UDI-DI solution for spectacle frames, spectacle lenses and ready-to-wear reading spectacles
 March 2026
@@ -875,6 +878,10 @@ January 2018
 Latest updates
 
 News announcement
+22 July 2026
+New MDCG Position Paper: UDI assignment between manufacturers and distributors
+1 min read
+News announcement
 14 July 2026
 Publication of dashboard version 3.5 for the Study supporting the monitoring of availability of medical devices on the EU market
 1 min read
@@ -885,10 +892,6 @@ Medical Devices: Delegated acts on well-established technologies published
 News announcement
 18 June 2026
 New MDCG Position Paper: Management of SS(C)P in EUDAMED after mandatory use
-1 min read
-News announcement
-17 June 2026
-New guidance document on the “EU REP” symbol for authorised representatives
 1 min read
 See all
 
@@ -954,7 +957,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1106"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1109"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 

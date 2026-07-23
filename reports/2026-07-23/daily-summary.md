@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-07-23
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Text & Links
@@ -52,7 +57,6 @@
 **Added links (all):**
 - https://health.ec.europa.eu/document/download/f34c1afd-8d01-44cc-bf94-33e4bcac0ef2_en?filename=mdcg_2026-5_en.pdf
 
-
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
 **Changes:** Links
@@ -62,7 +66,6 @@
 
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-new-regulations/guidance_en
-
 
 ### Issue #5
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/directives_en](https://health.ec.europa.eu/medical-devices-sector/directives_en)
@@ -96,7 +99,6 @@
  
 ```
 
-
 ### Issue #6
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en](https://health.ec.europa.eu/medical-devices-sector/vitro-diagnostics_en)
 **Changes:** Links
@@ -106,7 +108,6 @@
 
 **Removed links (all):**
 - https://health.ec.europa.eu/medical-devices-vitro-diagnostics/guidance_en
-
 
 ### Issue #8
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en](https://health.ec.europa.eu/medical-devices-sector/guidance-and-useful-information_en)
@@ -427,7 +428,6 @@
 - https://www.facebook.com/EuropeanCommission
 - https://www.youtube.com/user/eutube
 - https://x.com/EU_Health
-
 
 ### Issue #9
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en](https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en)
