@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-09-10
+
+## Changes today
+
 ### Issue #3
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)
 **Changes:** Text & Links
@@ -48,7 +53,6 @@
 **Added links (all):**
 - https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en
 
-
 ### Issue #5
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/directives_en](https://health.ec.europa.eu/medical-devices-sector/directives_en)
 **Changes:** Text & Links
@@ -83,7 +87,6 @@
 
 **Added links (all):**
 - https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en
-
 
 ### Issue #9
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en](https://health.ec.europa.eu/medical-devices-sector/coordination-and-governance_en)
