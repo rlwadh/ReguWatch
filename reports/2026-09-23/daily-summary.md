@@ -1,3 +1,8 @@
+# ReguWatch — Daily Summary
+Date (UTC): 2026-09-23
+
+## Changes today
+
 ### Issue #4
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/new-regulations_en](https://health.ec.europa.eu/medical-devices-sector/new-regulations_en)
 **Changes:** Text
@@ -34,7 +39,6 @@
  Day 2: 28 March 2023 IMDRF Stakeholder Forum
  
 ```
-
 
 ### Issue #7
 **Page:** [https://health.ec.europa.eu/medical-devices-sector/eudamed_en](https://health.ec.europa.eu/medical-devices-sector/eudamed_en)
