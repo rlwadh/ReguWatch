@@ -70,7 +70,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install requests selectolax
+      - run: pip install requests "selectolax>=0.4,<1.0"
 
       - name: Run daily check
         id: check
