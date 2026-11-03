@@ -208,6 +208,9 @@ Clinical investigation and evaluation, performance studies and evaluation
 Reference
 Title
 Publication
+MDCG 2026-6
+Clinical evidence for orphan in vitro diagnostic medical devices
+November 2026
 MDCG 2025-5
 Questions & Answers regarding performance studies of in vitro diagnostic medical devices under regulation (EU) 2017/746
 June 2025
@@ -487,18 +490,18 @@ Guidance on Classification Rules for in vitro Diagnostic Medical Devices under R
 September 2026
 MDCG 2022-20
 Substantial modification of performance study under Regulation (EU) 2017/746
-December  2022
+December 2022
 MDCG 2022-19
 Performance study application/notification documents under Regulation (EU) 2017/746
-December  2022
+December 2022
 MDCG 2022-15
 Guidance on appropriate surveillance regarding the transitional provisions under Article 110 of the IVDR with regard to devices covered by certificates according to the IVDD
-September  2022
+September 2022
 MDCG 2021-22 rev.1
 Clarification on “first certification for that type of device” and corresponding procedures to be followed by notified bodies, in context of the
 consultation of the expert panel
 referred to in Article 48(6) of Regulation (EU) 2017/746
-September  2022
+September 2022
 MDCG 2022-10
 Q&A on the interface between Regulation (EU) 536/2014 on clinical trials for medicinal products for human use (CTR) and Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR)
 May 2022
@@ -567,16 +570,14 @@ Reference
 Title
 Publication
 MDCG 2024-6
-
 Preliminary re-assessment review (PRAR) form template (MDR)
 May 2024
 MDCG 2024-7 rev.1
 MDCG 2021-15/MDCG 2024-7 Annex
 Preliminary assessment review (PAR) form template (MDR)
-Annex to Application Form & PAR Template MDR (List of documents)
+Annex to Application Form & PAR Template MDR (List of documents)
 January 2025
 MDCG 2024-8 rev.1
-
 MDCG 2021-16/MDCG 2024-8 Annex
 Preliminary assessment review (PAR) form template (IVDR)
 Annex to Application Form & PAR Template IVDR (List of documents)
@@ -725,11 +726,10 @@ MDCG 2024-1-4
 DSVG 04 on Breast implants
 January 2024
 MDCG 2024-1-5
-DSVG 05 on Urogynaecological Surgical Mesh Implants used for Pelvic Organ Prolapse repair and Stress Urinary Incontinence
+DSVG 05 on Urogynaecological Surgical Mesh Implants used for Pelvic Organ Prolapse repair and Stress Urinary Incontinence
 June 2024
 MDCG 2023-3 rev.2
-
-Questions and Answers on vigilance terms and concepts as outlined in the Regulation (EU) 2017/745 on medical devices and Regulation (EU) 2017/746
+Questions and Answers on vigilance terms and concepts as outlined in the Regulation (EU) 2017/745 on medical devices and Regulation (EU) 2017/746
 January 2025
 MDCG 2022-21
 Guidance on Periodic Safety Update Report (PSUR) according to Regulation (EU) 2017/745
@@ -955,7 +955,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1110"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1114"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 
