@@ -136,6 +136,7 @@ Medical Devices - EUDAMED
 
 
 
+
 Overview
 EUDAMED is the IT system developed by the European Commission to implement Regulation (EU) 2017/745 on medical devices and Regulation (EU) 2017/746…
 Actors registration
@@ -146,6 +147,7 @@ Notified Bodies and Certificates
 Regulation (EU) 2017/745 on medical devices (MDR) and Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR) establish that Notified…
 Getting ready
 Learning material for EUDAMED onboarding. Prepare confidently for the mandatory use of the system.
+
 
 
 
@@ -265,7 +267,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"piwik","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Landing Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Medical Devices - EUDAMED"},{"id":7,"value":"42bbeb41-ea60-458e-9a26-264339945f4b"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":30,"value":"3woa14-node-12987"}]}
+{"utility":"analytics","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Landing Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Medical Devices - EUDAMED"},{"id":7,"value":"42bbeb41-ea60-458e-9a26-264339945f4b"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":30,"value":"3woa14-node-12987"}]}
 
 {"utility":"cck"}
 
