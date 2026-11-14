@@ -1,1 +1,704 @@
-[ERROR fetching https://www.fda.gov/medical-devices]: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+
+
+
+Skip to main content
+
+Skip to FDA Search
+
+Skip to in this section menu
+
+Skip to footer links
+
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+
+Here’s how you know
+
+
+
+
+
+
+
+The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+
+
+
+
+
+The site is secure.
+The
+https://
+ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Search FDA
+
+
+
+Submit search
+
+
+
+
+
+
+
+
+
+Featured
+
+
+Report a Product Problem
+
+Contact FDA
+
+FDA Guidance Documents
+
+Recalls, Market Withdrawals and Safety Alerts
+
+Press Announcements
+
+Warning Letters
+
+Advisory Committees
+
+En Español
+
+
+
+
+
+
+Products
+
+
+Food
+
+Drugs
+
+Medical Devices
+
+Radiation-Emitting Products
+
+Vaccines, Blood, and Biologics
+
+Animal and Veterinary
+
+Cosmetics
+
+Tobacco Products
+
+
+
+
+Topics
+
+
+About FDA
+
+Combination Products
+
+Regulatory Information
+
+Safety
+
+Emergency Preparedness
+
+International Programs
+
+News and Events
+
+Training and Continuing Education
+
+Inspections and Compliance
+
+Science and Research
+
+
+
+
+Information For
+
+
+Consumers
+
+Patients
+
+Industry
+
+Health Professionals
+
+Federal, State and Local Officials
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+In this section
+
+
+
+
+
+
+Medical Devices
+
+
+
+
+
+
+
+
+
+
+Device Advice: Comprehensive Regulatory Assistance
+
+Digital Health Center of Excellence
+
+Medical Device Development Tools (MDDT)
+
+Medical Device Cybersecurity
+
+Medical Device Safety
+
+Medical Devices News and Events
+
+Products and Medical Procedures
+
+Resources for You (Medical Devices)
+
+Science and Research (Medical Devices)
+
+CDRH International Affairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medical Devices
+
+
+
+
+
+Topic Paragraphs
+
+
+
+
+
+Medical Device Updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imagine Home as a Health Care Hub through the Idea Lab
+
+Helping innovators, providers, and patients reimagine the home as an integral part of the health care system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Communications Pilot to Enhance Medical Device Recall Program
+
+The pilot aims to minimize the time between the FDA’s initial awareness of and public notification of potentially high-risk medical device removals or corrections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Before throwing out at-home COVID-19 tests, check the FDA’s website to confirm …
+
+Did you know that there are several over-the-counter (OTC) COVID-19 tests that have extended expiration dates? If you have at-home OTC COVID-19 tests with extended expiration dates, they can be used beyond the expiration date that is printed on the box.
+
+
+
+
+
+
+
+
+
+
+CDRH News and Events
+
+Medical Device Safety
+
+Device Advice
+
+Search for FDA Guidance Documents
+
+
+
+
+
+
+
+Navigate the Medical Device Section
+
+
+
+
+Cybersecurity
+
+Medical device cybersecurity resources for device manufacturers and users.
+
+
+
+CDRH New
+
+Comprehensive List of Latest CDRH Updates
+
+
+
+Products and Medical Procedures
+
+Approvals and clearances, information on medical devices by type
+
+
+
+Digital Health Center of Excellence
+
+Cybersecurity, mobile medical apps, wireless medical devices, AI/ML in Software as a Medical Device (SaMD),  Interoperability
+
+
+
+Science and Research
+
+CDRH research programs, epidemiology, medical device development tools (MDDT)
+
+
+
+COVID-19 and Medical Devices
+
+Stay up to date with information about COVID-19 and medical devices
+
+
+
+International Affairs
+
+International Medical Device Regulators Forum, Medical Device Single Audit Program (MDSAP), Regulatory Reliance
+
+
+
+Resources for You
+
+Information for consumers and health care providers, letters to industry
+
+
+
+
+
+
+
+
+Search Medical Device Databases
+
+
+
+
+510(k) Premarket Notification Database
+
+
+
+
+Device Registration and Listing Database
+
+
+
+
+Product Code Classification Database
+
+
+
+
+
+
+
+
+
+more:  Search Medical Device Databases
+
+
+
+
+MAUDE (Manufacturer and User Facility Device Experience) Database
+
+
+
+
+Premarket Approvals (PMA) Database
+
+
+
+
+All Medical Device Databases
+
+
+
+
+
+
+
+
+
+How Do I
+
+
+
+
+Classify a Medical Device
+
+
+
+
+Register and List a Device
+
+
+
+
+Label a Device
+
+
+
+
+Submit Adverse Event and Problem Reports (MDR)
+
+
+
+
+Study and Market a Device
+
+
+
+
+Find Device Approvals and Clearances
+
+
+
+
+Find Device Recalls
+
+
+
+
+Watch Webinars
+
+
+
+
+
+
+
+
+
+Get Information on CDRH
+
+
+
+
+About the Center for Devices and Radiological Health
+
+
+
+
+Jobs at CDRH
+
+
+
+
+Medical Devices News and Events
+
+
+
+
+Sign Up for Emails
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+Office of Industry and Consumer Education
+Center for Devices and Radiological Health
+Food and Drug Administration
+10903 New Hampshire Ave
+Silver Spring, MD 20993
+
+
+
+AskOICE@fda.hhs.gov
+
+
+
+(800) 638-2041
+
+(301) 796-7100
+
+
+
+
+
+
+Hours Available
+
+
+
+
+
+
+
+
+
+
+Office of Communication, Information Disclosure, Training and Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FDA Archive
+
+About FDA
+
+Accessibility
+
+
+
+
+
+Visitor Information
+
+
+Website Policies / Privacy
+
+No FEAR Act
+
+Vulnerability Disclosure Policy
+
+
+
+
+
+FOIA
+
+HHS.gov
+
+USA.gov
+
+
+
+
+
+
+
+Contact FDA
+
+
+
+Follow FDA on Facebook
+
+
+
+
+
+
+
+Follow FDA on X
+
+
+
+
+Follow FDA on Instagram
+
+
+
+
+
+
+Follow FDA on LinkedIn
+
+
+
+
+
+View FDA videos on YouTube
+
+
+
+
+
+Subscribe to FDA RSS feeds
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Number
+1-888-INFO-FDA (1-888-463-6332)
+
+
+
+
+Back to
+Top
+
+Feedback
+
+
+
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/388128","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"fda_ckeditor_enhancements":{"basePath":"modules\/custom\/fda_ckeditor_enhancements"},"google_analytics":{"account":"G-273DTKB5QW","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"ajax":[],"user":{"uid":0,"permissionsHash":"1b1b521ce0efd787b9481ef00f514b542eb396217a4d74c357d2ecd6b6b52a2d"}}
+
+

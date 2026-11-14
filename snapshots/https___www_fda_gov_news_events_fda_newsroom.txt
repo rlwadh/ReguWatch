@@ -1,1 +1,606 @@
-[ERROR fetching https://www.fda.gov/news-events/fda-newsroom]: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+
+
+
+Skip to main content
+
+Skip to FDA Search
+
+Skip to in this section menu
+
+Skip to footer links
+
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+
+Here’s how you know
+
+
+
+
+
+
+
+The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+
+
+
+
+
+The site is secure.
+The
+https://
+ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Search FDA
+
+
+
+Submit search
+
+
+
+
+
+
+
+
+
+Featured
+
+
+Report a Product Problem
+
+Contact FDA
+
+FDA Guidance Documents
+
+Recalls, Market Withdrawals and Safety Alerts
+
+Press Announcements
+
+Warning Letters
+
+Advisory Committees
+
+En Español
+
+
+
+
+
+
+Products
+
+
+Food
+
+Drugs
+
+Medical Devices
+
+Radiation-Emitting Products
+
+Vaccines, Blood, and Biologics
+
+Animal and Veterinary
+
+Cosmetics
+
+Tobacco Products
+
+
+
+
+Topics
+
+
+About FDA
+
+Combination Products
+
+Regulatory Information
+
+Safety
+
+Emergency Preparedness
+
+International Programs
+
+News and Events
+
+Training and Continuing Education
+
+Inspections and Compliance
+
+Science and Research
+
+
+
+
+Information For
+
+
+Consumers
+
+Patients
+
+Industry
+
+Health Professionals
+
+Federal, State and Local Officials
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+News & Events
+
+
+
+FDA Newsroom
+
+
+
+
+
+News & Events
+
+
+
+
+
+
+In this section
+
+
+
+
+FDA Newsroom
+
+
+
+
+
+
+
+
+Press Announcements
+
+Comunicados de prensa
+
+FDA Voices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FDA Newsroom
+
+
+
+
+
+
+
+
+
+
+FDA Newsroom
+
+
+
+
+
+
+
+
+Press Announcements
+
+Comunicados de prensa
+
+FDA Voices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Press Announcements
+
+
+
+
+
+
+
+November 2026
+
+
+November 9, 2026
+- FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk
+
+November 5, 2026
+- FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma
+
+November 2, 2026
+- FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality
+
+
+
+
+October 2026
+
+
+October 30, 2026
+- FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis
+
+October 22, 2026
+- FDA Launches New Program to Advance Neuroscience Medical Product Development
+
+October 20, 2026
+- FDA Issues Final Guidance on Prescription Drug Apps and Software
+
+October 20, 2026
+- FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment
+
+October 20, 2026
+- FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women
+
+October 19, 2026
+- FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery
+
+October 14, 2026
+- FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development
+
+
+
+
+
+Pagination
+
+
+
+
+Current page
+1
+
+
+
+
+Page
+2
+
+
+
+
+Page
+3
+
+
+
+
+Page
+4
+
+
+
+
+Page
+5
+
+
+
+
+Page
+6
+
+
+
+
+Page
+7
+
+
+
+
+Page
+8
+
+
+
+
+Page
+9
+
+
+…
+
+
+
+Next page
+
+››
+
+
+
+
+
+Last page
+
+Last »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content current as of:
+
+07/18/2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback
+
+
+
+
+
+
+
+Sign up to receive FDA Press Releases.
+
+Get regular FDA email updates delivered on this topic to your inbox.
+
+
+
+
+
+
+
+Enter your email address to subscribe:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FDA Archive
+
+About FDA
+
+Accessibility
+
+
+
+
+
+Visitor Information
+
+
+Website Policies / Privacy
+
+No FEAR Act
+
+Vulnerability Disclosure Policy
+
+
+
+
+
+FOIA
+
+HHS.gov
+
+USA.gov
+
+
+
+
+
+
+
+Contact FDA
+
+
+
+Follow FDA on Facebook
+
+
+
+
+
+
+
+Follow FDA on X
+
+
+
+
+Follow FDA on Instagram
+
+
+
+
+
+
+Follow FDA on LinkedIn
+
+
+
+
+
+View FDA videos on YouTube
+
+
+
+
+
+Subscribe to FDA RSS feeds
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Number
+1-888-INFO-FDA (1-888-463-6332)
+
+
+
+
+Back to
+Top
+
+
+{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/361018","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"fda_ckeditor_enhancements":{"basePath":"modules\/custom\/fda_ckeditor_enhancements"},"google_analytics":{"account":"G-273DTKB5QW","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"ajax":[],"user":{"uid":0,"permissionsHash":"1b1b521ce0efd787b9481ef00f514b542eb396217a4d74c357d2ecd6b6b52a2d"}}
+
+
