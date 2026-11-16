@@ -1,1 +1,1 @@
-[ERROR fetching https://health.ec.europa.eu/medical-devices-sector/eudamed_en]: 429 Client Error: Too Many Requests for url: https://health.ec.europa.eu/medical-devices-eudamed_en
+[ERROR fetching https://health.ec.europa.eu/medical-devices-sector/eudamed_en]: 429 Client Error: Too Many Requests for url: https://health.ec.europa.eu/medical-devices-sector/eudamed_en
