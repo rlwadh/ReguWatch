@@ -677,6 +677,9 @@ December 2019
 MDCG 2019-13 rev.1
 Guidance on sampling of devices for the assessment of the technical documentation
 December 2024
+MDCG 2026-7
+Guidance on Technical Documentation Assessment Report and PSUR evaluation for Eudamed (MDR)
+November 2026
 MDCG 2019-12
 Designating authority's final assessment form: Key information (EN)
 October 2019
@@ -876,6 +879,10 @@ January 2018
 Latest updates
 
 News announcement
+26 November 2026
+New guidance document MDCG 2026-7 on Technical Documentation Assessment Report and PSUR evaluation for Eudamed (MDR)
+1 min read
+News announcement
 13 November 2026
 Watch it back! Webinar on pilot coordinated assessment for medical devices
 1 min read
@@ -886,10 +893,6 @@ EU-Singapore: Working arrangement signed for greater collaboration on public hea
 News announcement
 3 November 2026
 New guidance document MDCG 2026-6 on Guidance on clinical evidence for orphan IVDs
-1 min read
-News announcement
-30 October 2026
-New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use
 1 min read
 See all
 
@@ -957,7 +960,7 @@ Legal notice
 Accessibility
 
 
-{"utility":"analytics","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1114"},{"id":30,"value":"3woa14-node-1095"}]}
+{"utility":"analytics","siteID":"f573665d-3da7-4fad-8552-baccf7ee0b46","sitePath":["health.ec.europa.eu"],"instance":"ec","dimensions":[{"id":3,"value":"Page"},{"id":4,"value":"medical-device"},{"id":5,"value":"Directorate-General-for-Health-and-Food-Safety"},{"id":6,"value":"Guidance - MDCG endorsed documents and other guidance"},{"id":7,"value":"862a13f5-90c2-4262-b9db-80364b647731"},{"id":8,"value":"EC - STANDARDISED"},{"id":9,"value":"health-policy"},{"id":10,"value":"Default landing page"},{"id":12,"value":"1119"},{"id":30,"value":"3woa14-node-1095"}]}
 
 {"utility":"cck"}
 
